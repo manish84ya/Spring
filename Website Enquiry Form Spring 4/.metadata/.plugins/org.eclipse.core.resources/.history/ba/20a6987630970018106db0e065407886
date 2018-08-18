@@ -1,0 +1,30 @@
+package com.website.enquiry.repository;
+
+import javax.transaction.Transactional;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate4.HibernateTemplate;
+import org.springframework.stereotype.Controller;
+
+import com.website.enquiry.model.EnquiryDTO;
+
+@Controller
+@Transactional
+public class EnquiryRepository 
+{
+	final static Logger logger = Logger.getLogger(EnquiryRepository.class);
+	@Autowired
+	private HibernateTemplate hibernateTemplate;
+	
+	
+	public EnquiryDTO save(EnquiryDTO enquiry)
+	{
+		logger.info("Inside Repository method");
+		logger.info(enquiry.getEnquiryPersonName()+" "+enquiry.getEmailId()+" "+enquiry.getContactNumber()+" "+enquiry.getProfession()+" "+enquiry.getPromotionalMsg()+" "+enquiry.getComment());
+		hibernateTemplate.save(enquiry);
+		return enquiry;
+	}
+	
+
+}

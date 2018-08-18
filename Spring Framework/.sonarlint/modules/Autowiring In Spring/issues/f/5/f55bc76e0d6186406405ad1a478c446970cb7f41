@@ -1,0 +1,11 @@
+
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ѕачH№"RMINORZ
+CODE_SMELL
+Бsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ъўв№ю€€€€HЁ"RMINORZ
+CODE_SMELL
+Еsquid:S00116"WRename this field "company_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(фј‘№Hё"RMINORZ
+CODE_SMELL
+Дsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ъўв№ю€€€€Hя"RMINORZ
+CODE_SMELL
+Иsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(а≈≠√Hа"RMINORZ
+CODE_SMELL

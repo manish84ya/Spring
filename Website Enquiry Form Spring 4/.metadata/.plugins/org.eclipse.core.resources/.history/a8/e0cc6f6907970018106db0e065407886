@@ -1,0 +1,5 @@
+package com.website.enquiry.service;
+
+public class EnquiryService {
+
+}

@@ -1,0 +1,44 @@
+package com.aartek.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import org.apache.log4j.Logger;
+import com.aartek.model.User;
+import com.aartek.repository.LoginRepository;
+
+
+@Service
+public class LoginService {
+	@Autowired
+	private LoginRepository loginrepository; 
+	
+	final static Logger logger = Logger.getLogger(LoginService.class);
+
+	public String saveUserRecordService(User login)
+	{
+		logger.warn("Inside Service singUpService() :");
+		loginrepository.saveUserRecordRepository(login);
+		return "hello";
+		
+	}
+	public String checkLogin(User user)
+	{
+		logger.warn("Inside Service : Login");
+		
+		
+		User user1=loginrepository.checkLogin(user);
+		if(user.getEmail().equals(user1.getEmail()) && user.getPassword().equals(user1.getPassword()))
+		{
+			logger.warn("Valid User");
+			
+			//return "login";
+		}
+		else 
+		{
+			logger.warn("Not Valid User");
+		}
+		return "login";
+	
+	}
+}

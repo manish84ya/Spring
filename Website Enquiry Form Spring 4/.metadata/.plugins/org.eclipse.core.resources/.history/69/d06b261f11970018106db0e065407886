@@ -1,0 +1,5 @@
+package com.website.enquiry.repository;
+
+public class EnquiryRepository {
+
+}

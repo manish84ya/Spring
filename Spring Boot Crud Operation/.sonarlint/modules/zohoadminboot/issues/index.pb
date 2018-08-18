@@ -1,0 +1,21 @@
+
+g
+7src/main/java/com/aartek/config/ZohoWebApplication.java,0\0\000ca9c7f36ff98bcfeb6183991c3a3be29f56e0
+Y
+)src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
+a
+1src/main/resources/hibernateproperties.properties,b\5\b5c45b8abf0e1fb47a3a2b51cdcbbe30df0fa660
+U
+%src/main/webapp/WEB-INF/jsp/index.jsp,f\1\f16d1c46eaaabb105b651081f6c87e034b2028d2
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+U
+%src/main/webapp/WEB-INF/jsp/login.jsp,5\8\582bc84275d5b626d3b0f12b82e66269f2fac2a7
+\
+,src/main/webapp/WEB-INF/jsp/registration.jsp,8\6\863750b17f37d1bcb7d6ce621e6f066177b3cf66
+k
+;src/main/java/com/aartek/config/HibernateConfiguration.java,3\d\3da0a11f798dfa51c06361c5807867ecf6e56f05
+h
+8src/main/java/com/aartek/controller/LoginController.java,d\c\dc9ba7196b8ff7cfc8bf5c0de5d353f6cb26ff70
+W
+'src/main/webapp/WEB-INF/jsp/product.jsp,4\5\45292f8c24b86d7207e18a7406355f16fb423f68

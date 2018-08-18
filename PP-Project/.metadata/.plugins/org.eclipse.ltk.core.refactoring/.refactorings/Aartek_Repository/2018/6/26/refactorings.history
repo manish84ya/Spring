@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Aartek_Repository/src/main/java/com/Aartek&apos; to &apos;aartek&apos;" description="Rename resource &apos;Aartek&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/Aartek" name="aartek" stamp="1530141742719" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Aartek_Repository/src/main/java/com/aartek/Repository&apos; to &apos;repository&apos;" description="Rename resource &apos;Repository&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/aartek/Repository" name="repository" stamp="1530141757223" updateReferences="true"/>
+</session>

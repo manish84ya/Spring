@@ -1,0 +1,16 @@
+package com.aartek.aop;
+
+public class MyBookService /*implements BookService*/
+{
+
+	public void printBook(String Book) 
+	{
+		System.out.println("Book   "+Book);
+	}
+
+	public void printErrorBook() 
+	{
+		int x=5/0;
+	}
+
+}

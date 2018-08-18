@@ -1,0 +1,25 @@
+
+˜squid:UselessImportCheck"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ğÿûÿÿÿÿ8Ñ°œˆÏ,HıRMINORZ
+CODE_SMELL
+…squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÉÇãøøÿÿÿÿHõRMINORZ
+CODE_SMELL
+‡squid:S1192M"KDefine a constant instead of duplicating this literal "productMap" 3 times.(±†óÈûÿÿÿÿ8§×±‹Ï,H¹RCRITICALZ
+CODE_SMELL
+”squid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8Ñ°œˆÏ,HüRMINORZ
+CODE_SMELL
+„squid:S1192O"HDefine a constant instead of duplicating this literal "product" 4 times.(›Ä“²øÿÿÿÿ8Ñ°œˆÏ,H÷RCRITICALZ
+CODE_SMELL
+asquid:S1125@"(Remove the literal "true" boolean value.(ôè»ùÿÿÿÿ8Ñ°œˆÏ,HùRMINORZ
+CODE_SMELL
+vsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Ñ°œˆÏ,HşRMINORZ
+CODE_SMELL
+}squid:S11921"FDefine a constant instead of duplicating this literal "login" 3 times.(Íı‡Ç8Ñ°œˆÏ,HöRCRITICALZ
+CODE_SMELL
+…squid:S1192N"IDefine a constant instead of duplicating this literal "prodList" 3 times.(ğ½Í™úÿÿÿÿ8Ñ°œˆÏ,HøRCRITICALZ
+CODE_SMELL
+„squid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(ÛÅÏ—øÿÿÿÿ8şğ·‹Ï,HÅRMAJORZ
+CODE_SMELL
+bsquid:S1481h")Remove this unused "prod" local variable.(ŸÚ’–ıÿÿÿÿ8şğ·‹Ï,HÆRMINORZ
+CODE_SMELL
+qsquid:S1854h"8Remove this useless assignment to local variable "prod".(ŸÚ’–ıÿÿÿÿ8şğ·‹Ï,HÇRMAJORZ
+CODE_SMELL

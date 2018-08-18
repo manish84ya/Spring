@@ -1,0 +1,7 @@
+
+~squid:S00116"PRename this field "Empid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ‹Å„Hþ"RMINORZ
+CODE_SMELL
+…squid:S00116"RRename this field "EmpName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á–Ñ‚ùÿÿÿÿHÿ"RMINORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¬×¶H€#RMINORZ
+CODE_SMELL

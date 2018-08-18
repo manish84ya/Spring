@@ -1,0 +1,33 @@
+package com.aartek.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.aartek.model.Employee;
+import com.aartek.repository.RegistrationRepository;
+
+@Service
+public class RegistrationService 
+{
+	@Autowired
+	private RegistrationRepository registrationrepository;
+	
+	public Employee saveRecord(Employee emp)
+	{
+		System.out.println("Inside RegistrationService ");
+	    Employee employee=registrationrepository.saveRecord(emp);
+		return employee;
+	}
+	
+	
+	
+	
+	
+	/*public Employee RegistrationServiceMethod(Employee emp)
+	{
+		System.out.println("Inside RegistrationService ");
+	    Employee employee=registrationrepository.saveRecord(emp);
+		return employee;
+	}
+*/
+}

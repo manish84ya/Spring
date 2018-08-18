@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+D:\Programs\Spring Framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2379189849.index
+\ZohoWEB\src\main\resources
+D:\Programs\Spring Framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1222789293.index
+\ZohoWEB\src\main\resources

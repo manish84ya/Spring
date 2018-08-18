@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans  
+     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+<bean id="emp" class ="com.Autowiring.SI.byConstructor.Employee" autowire="constructor">
+
+<!-- <property name="empid" value="1"></property>
+<property name="ename" value="vishal"></property>
+<property name="emob" value="1256"></property>
+ -->
+<constructor-arg  value="1042" index="2"></constructor-arg>
+<constructor-arg  value="Manish Chaurasiya" index="3"></constructor-arg>
+<constructor-arg  value="9600007925" index="4"></constructor-arg>
+	
+	
+</bean>
+<bean id="cmp5" class="com.Autowiring.SI.byConstructor.Company">
+
+<property name="id" value="488442"></property>
+<property name="company_name" value="Aartek"></property>
+<property name="revenue" value="10"></property>
+
+</bean>
+</beans>

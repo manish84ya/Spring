@@ -1,0 +1,852 @@
+2018-07-17 15:44:03 INFO  LoginController:41 - Inside controller : log
+2018-07-31 08:11:50 INFO  LoginController:48 - Inside controller GET:userLogin()...
+2018-07-31 08:12:06 INFO  LoginController:55 - Inside controller POST:userLogin()...
+2018-07-31 08:12:06 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 08:12:06 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 08:12:07 WARN  LoginService:32 - Valid User
+2018-07-31 15:22:10 INFO  LoginController:48 - Inside controller GET:userLogin()...
+2018-07-31 15:22:23 INFO  LoginController:55 - Inside controller POST:userLogin()...
+2018-07-31 15:22:23 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 15:22:23 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 15:22:24 WARN  LoginService:32 - Valid User
+2018-07-31 15:26:45 INFO  LoginController:48 - Inside controller GET:userLogin()...
+2018-07-31 15:26:58 INFO  LoginController:55 - Inside controller POST:userLogin()...
+2018-07-31 15:26:58 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 15:26:58 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 15:26:58 WARN  LoginService:32 - Valid User
+2018-07-31 15:27:56 INFO  LoginController:48 - Inside controller GET:userLogin()...
+2018-07-31 15:28:06 INFO  LoginController:55 - Inside controller POST:userLogin()...
+2018-07-31 15:28:06 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 15:28:06 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 15:28:06 WARN  LoginService:32 - Valid User
+2018-07-31 15:38:17 INFO  LoginController:48 - Inside controller GET:userLogin()...
+2018-07-31 15:38:26 INFO  LoginController:55 - Inside controller POST:userLogin()...
+2018-07-31 15:38:26 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 15:38:26 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 15:38:26 WARN  LoginService:32 - Valid User
+2018-07-31 15:41:51 INFO  LoginController:52 - Inside controller GET:userLogin()...
+2018-07-31 15:42:01 INFO  LoginController:59 - Inside controller POST:userLogin()...
+2018-07-31 15:42:01 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 15:42:01 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 15:42:01 WARN  LoginService:32 - Valid User
+2018-07-31 15:43:15 INFO  LoginController:52 - Inside controller GET:userLogin()...
+2018-07-31 15:43:27 INFO  LoginController:59 - Inside controller POST:userLogin()...
+2018-07-31 15:43:27 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 15:43:27 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 15:43:27 WARN  LoginService:32 - Valid User
+2018-07-31 15:43:27 INFO  LoginController:72 - Inside controller GET:productAdd()...
+2018-07-31 15:46:45 INFO  LoginController:52 - Inside controller GET:userLogin()...
+2018-07-31 15:46:58 INFO  LoginController:59 - Inside controller POST:userLogin()...
+2018-07-31 15:46:58 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 15:46:58 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 15:46:58 WARN  LoginService:32 - Valid User
+2018-07-31 15:46:59 INFO  LoginController:72 - Inside controller GET:productAdd()...
+2018-07-31 15:51:23 INFO  LoginController:52 - Inside controller GET:userLogin()...
+2018-07-31 15:51:33 INFO  LoginController:59 - Inside controller POST:userLogin()...
+2018-07-31 15:51:33 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 15:51:33 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 15:51:33 WARN  LoginService:32 - Valid User
+2018-07-31 16:38:51 INFO  LoginController:52 - Inside controller GET:userLogin()...
+2018-07-31 16:39:06 INFO  LoginController:59 - Inside controller POST:userLogin()...
+2018-07-31 16:39:06 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 16:39:06 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 16:39:06 WARN  LoginService:32 - Valid User
+2018-07-31 16:41:16 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 16:41:27 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 16:41:27 WARN  LoginService:28 - Inside Service : Login
+2018-07-31 16:41:27 DEBUG LoginRepository:31 - Inside Repository : Login
+2018-07-31 16:41:27 WARN  LoginService:32 - Valid User
+2018-07-31 16:41:27 INFO  LoginController:73 - Inside controller GET:productAdd()...
+2018-07-31 16:45:10 INFO  LoginController:81 - Inside controller POST:productAdd()...
+2018-07-31 16:55:57 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 16:56:08 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 16:56:08 WARN  LoginService:30 - Inside Service : Login
+2018-07-31 16:56:08 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 16:56:08 WARN  LoginService:34 - Valid User
+2018-07-31 16:56:08 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-07-31 16:56:32 INFO  LoginController:84 - Inside controller POST:productAdd()...
+2018-07-31 16:56:32 WARN  LoginService:46 - Inside Service productSaveRecordService() :
+2018-07-31 16:56:32 DEBUG LoginRepository:44 - Inside Repository:productSaveRecordRepository()
+2018-07-31 17:01:33 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-07-31 17:02:21 INFO  LoginController:84 - Inside controller POST:productAdd()...
+2018-07-31 17:02:21 WARN  LoginService:46 - Inside Service productSaveRecordService() :
+2018-07-31 17:02:21 DEBUG LoginRepository:44 - Inside Repository:productSaveRecordRepository()
+2018-07-31 17:03:30 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 17:03:32 INFO  LoginController:37 - Inside Registration GET Method:
+2018-07-31 17:03:54 INFO  LoginController:44 - Inside Registration POST Method:
+2018-07-31 17:03:54 INFO  LoginController:45 - taksh@gmail.com taksh
+2018-07-31 17:03:54 WARN  LoginService:23 - Inside Service singUpService() :
+2018-07-31 17:03:54 DEBUG LoginRepository:25 - Inside Repository:
+2018-07-31 17:04:01 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 17:04:15 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 17:04:15 WARN  LoginService:30 - Inside Service : Login
+2018-07-31 17:04:15 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 17:04:16 WARN  LoginService:34 - Valid User
+2018-07-31 17:04:16 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-07-31 17:25:42 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 17:25:53 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 17:25:53 WARN  LoginService:30 - Inside Service : Login
+2018-07-31 17:25:53 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 17:25:54 WARN  LoginService:34 - Valid User
+2018-07-31 17:25:54 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-07-31 17:26:27 INFO  LoginController:84 - Inside controller POST:productAdd()...
+2018-07-31 17:26:27 WARN  LoginService:46 - Inside Service productSaveRecordService() :
+2018-07-31 17:26:27 DEBUG LoginRepository:44 - Inside Repository:productSaveRecordRepository()
+2018-07-31 17:26:27 WARN  LoginService:52 - Inside Service productGetRecordService() :
+2018-07-31 17:26:27 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 17:26:27 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 17:26:27 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 17:34:13 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 17:34:24 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 17:34:24 WARN  LoginService:30 - Inside Service : Login
+2018-07-31 17:34:24 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 17:34:24 WARN  LoginService:34 - Valid User
+2018-07-31 17:34:24 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-07-31 17:44:39 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 17:44:48 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 17:44:48 WARN  LoginService:30 - Inside Service : Login
+2018-07-31 17:44:48 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 17:44:48 WARN  LoginService:34 - Valid User
+2018-07-31 17:44:48 INFO  LoginController:74 - Inside controller GET:productAdd()...
+2018-07-31 17:44:48 WARN  LoginService:52 - Inside Service productGetRecordService() :
+2018-07-31 17:44:48 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 17:44:48 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 17:44:48 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 17:47:20 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 17:47:28 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 17:47:28 WARN  LoginService:30 - Inside Service : Login
+2018-07-31 17:47:28 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 17:47:28 WARN  LoginService:34 - Valid User
+2018-07-31 17:47:28 INFO  LoginController:74 - Inside controller GET:productAdd()...
+2018-07-31 17:47:28 WARN  LoginService:52 - Inside Service productGetRecordService() :
+2018-07-31 17:47:28 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 17:47:28 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 17:47:28 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 17:48:54 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 17:48:57 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 17:48:57 WARN  LoginService:30 - Inside Service : Login
+2018-07-31 17:48:57 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 17:48:57 WARN  LoginService:34 - Valid User
+2018-07-31 17:48:57 INFO  LoginController:74 - Inside controller GET:productAdd()...
+2018-07-31 17:48:57 WARN  LoginService:52 - Inside Service productGetRecordService() :
+2018-07-31 17:48:57 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 17:48:57 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 17:48:57 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 17:52:27 INFO  LoginController:74 - Inside controller GET:productAdd()...
+2018-07-31 17:52:27 WARN  LoginService:52 - Inside Service productGetRecordService() :
+2018-07-31 17:52:27 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 17:52:27 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 17:52:27 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 17:52:35 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 17:52:43 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 17:52:43 WARN  LoginService:30 - Inside Service : Login
+2018-07-31 17:52:43 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 17:52:44 WARN  LoginService:34 - Valid User
+2018-07-31 17:52:44 INFO  LoginController:74 - Inside controller GET:productAdd()...
+2018-07-31 17:52:44 WARN  LoginService:52 - Inside Service productGetRecordService() :
+2018-07-31 17:52:44 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 17:52:44 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 17:52:44 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 17:53:40 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 17:53:49 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 17:53:49 WARN  LoginService:30 - Inside Service : Login
+2018-07-31 17:53:49 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 17:53:49 WARN  LoginService:34 - Valid User
+2018-07-31 17:53:49 INFO  LoginController:74 - Inside controller GET:productAdd()...
+2018-07-31 17:53:49 WARN  LoginService:52 - Inside Service productGetRecordService() :
+2018-07-31 17:53:49 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 17:53:49 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 17:53:49 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 18:01:32 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 18:01:44 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 18:01:44 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 18:01:45 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 18:01:45 WARN  LoginService:36 - Valid User
+2018-07-31 18:01:45 INFO  LoginController:74 - Inside controller GET:productAdd()...
+2018-07-31 18:01:45 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 18:01:45 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 18:01:45 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 18:01:45 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 18:10:29 INFO  LoginController:53 - Inside controller GET:userLogin()...
+2018-07-31 18:10:39 INFO  LoginController:60 - Inside controller POST:userLogin()...
+2018-07-31 18:10:39 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 18:10:40 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 18:10:40 WARN  LoginService:36 - Valid User
+2018-07-31 18:10:40 INFO  LoginController:74 - Inside controller GET:productAdd()...
+2018-07-31 18:10:40 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 18:10:40 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 18:10:40 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 18:10:40 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 18:12:01 INFO  LoginController:82 - Inside controller POST:productAdd()...
+2018-07-31 18:12:01 WARN  LoginService:48 - Inside Service productSaveRecordService() :
+2018-07-31 18:12:01 DEBUG LoginRepository:44 - Inside Repository:productSaveRecordRepository()
+2018-07-31 18:12:02 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 18:12:02 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 18:12:02 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 18:12:02 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 18:12:02 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 19:01:13 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 19:01:22 INFO  LoginController:61 - Inside controller POST:userLogin()...
+2018-07-31 19:01:22 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 19:01:22 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 19:01:22 WARN  LoginService:36 - Valid User
+2018-07-31 19:01:22 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 19:01:22 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 19:01:22 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 19:01:22 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 19:01:22 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 19:01:22 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 19:01:26 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-07-31 19:01:26 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-07-31 19:01:26 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 19:11:00 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 19:11:10 INFO  LoginController:61 - Inside controller POST:userLogin()...
+2018-07-31 19:11:10 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 19:11:10 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 19:11:10 WARN  LoginService:36 - Valid User
+2018-07-31 19:11:10 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 19:11:10 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 19:11:10 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 19:11:10 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 19:11:10 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 19:11:10 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 19:11:14 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-07-31 19:11:14 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-07-31 19:11:14 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 19:11:25 INFO  LoginController:83 - Inside controller POST:productAdd()...
+2018-07-31 19:11:25 WARN  LoginService:48 - Inside Service productSaveRecordService() :
+2018-07-31 19:11:25 DEBUG LoginRepository:44 - Inside Repository:productSaveRecordRepository()
+2018-07-31 19:11:25 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 19:11:26 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 19:11:26 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 19:11:26 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 19:11:26 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 19:11:26 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 19:12:00 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-07-31 19:12:00 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-07-31 19:12:00 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 19:23:46 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 19:23:56 INFO  LoginController:61 - Inside controller POST:userLogin()...
+2018-07-31 19:23:56 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 19:23:56 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 19:23:56 WARN  LoginService:36 - Valid User
+2018-07-31 19:23:56 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 19:23:56 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 19:23:56 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 19:23:56 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 19:23:56 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 19:23:56 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 19:23:56 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 21:28:29 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 21:28:42 INFO  LoginController:61 - Inside controller POST:userLogin()...
+2018-07-31 21:28:42 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 21:28:42 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 21:28:43 WARN  LoginService:36 - Valid User
+2018-07-31 21:28:43 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 21:28:43 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 21:28:43 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 21:28:43 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 21:28:43 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 21:28:43 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 21:28:43 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 21:28:50 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-07-31 21:28:50 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-07-31 21:28:50 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 21:38:26 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 21:38:37 INFO  LoginController:61 - Inside controller POST:userLogin()...
+2018-07-31 21:38:37 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 21:38:37 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 21:38:38 WARN  LoginService:36 - Valid User
+2018-07-31 21:38:38 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 21:38:38 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 21:38:38 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 21:38:38 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 21:38:38 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 21:38:38 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 21:38:38 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 21:40:21 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 21:40:31 INFO  LoginController:61 - Inside controller POST:userLogin()...
+2018-07-31 21:40:31 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 21:40:31 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 21:40:32 WARN  LoginService:36 - Valid User
+2018-07-31 21:40:32 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 21:40:32 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 21:40:32 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 21:40:32 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 21:40:32 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 21:40:32 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 21:40:32 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 21:42:30 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 21:42:41 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 21:43:35 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 21:44:56 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 21:48:21 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 21:48:32 INFO  LoginController:61 - Inside controller POST:userLogin()...
+2018-07-31 21:48:32 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 21:48:33 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 21:48:33 WARN  LoginService:36 - Valid User
+2018-07-31 21:48:33 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 21:48:33 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 21:48:33 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 21:48:33 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 21:48:33 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 21:48:33 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 21:48:33 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 22:41:13 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 22:41:23 INFO  LoginController:61 - Inside controller POST:userLogin()...
+2018-07-31 22:41:23 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 22:41:23 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 22:41:24 WARN  LoginService:36 - Valid User
+2018-07-31 22:41:24 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 22:41:24 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 22:41:24 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 22:41:24 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 22:41:24 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 22:41:24 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 22:41:24 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 22:44:10 INFO  LoginController:54 - Inside controller GET:userLogin()...
+2018-07-31 22:44:20 INFO  LoginController:61 - Inside controller POST:userLogin()...
+2018-07-31 22:44:20 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 22:44:20 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 22:44:20 WARN  LoginService:36 - Valid User
+2018-07-31 22:44:20 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 22:44:20 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 22:44:20 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 22:44:20 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 22:44:20 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 22:44:20 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 22:44:20 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 22:44:52 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 22:44:52 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 22:44:52 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 22:44:52 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 22:44:52 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 22:44:52 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 22:44:52 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 22:45:30 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 22:45:30 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 22:45:30 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 22:45:30 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 22:45:30 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 22:45:30 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 22:45:30 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 22:45:33 INFO  LoginController:75 - Inside controller GET:productAdd()...
+2018-07-31 22:45:33 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 22:45:33 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 22:45:33 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 22:45:33 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 22:45:33 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 22:45:33 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 22:45:52 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-07-31 22:45:52 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-07-31 22:45:52 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 23:04:38 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-07-31 23:04:49 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-07-31 23:04:49 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 23:04:49 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 23:04:49 WARN  LoginService:36 - Valid User
+2018-07-31 23:04:49 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-07-31 23:04:49 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 23:04:49 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 23:04:50 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 23:04:50 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 23:04:50 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 23:04:50 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 23:04:55 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-07-31 23:04:55 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-07-31 23:04:55 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 23:08:25 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-07-31 23:08:41 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-07-31 23:08:41 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 23:08:41 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 23:08:41 WARN  LoginService:36 - Valid User
+2018-07-31 23:08:41 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-07-31 23:08:41 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 23:08:41 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 23:08:41 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 23:08:41 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 23:08:41 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 23:08:41 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 23:08:48 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-07-31 23:08:48 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-07-31 23:08:48 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 23:10:24 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-07-31 23:10:35 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-07-31 23:10:35 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 23:10:35 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 23:10:35 WARN  LoginService:36 - Valid User
+2018-07-31 23:10:35 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-07-31 23:10:35 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 23:10:35 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 23:10:35 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 23:10:35 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 23:10:35 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 23:10:35 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 23:10:41 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-07-31 23:10:41 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-07-31 23:10:41 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 23:25:41 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-07-31 23:25:51 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-07-31 23:25:51 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 23:25:51 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 23:25:51 WARN  LoginService:36 - Valid User
+2018-07-31 23:25:51 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-07-31 23:25:51 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 23:25:52 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 23:25:52 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 23:25:52 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 23:25:52 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 23:25:52 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 23:28:19 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-07-31 23:28:28 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-07-31 23:28:28 WARN  LoginService:32 - Inside Service : Login
+2018-07-31 23:28:29 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-07-31 23:28:29 WARN  LoginService:36 - Valid User
+2018-07-31 23:28:29 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-07-31 23:28:29 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-07-31 23:28:29 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-07-31 23:28:29 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 23:28:29 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-07-31 23:28:29 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-07-31 23:28:29 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-07-31 23:29:00 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-07-31 23:29:00 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-07-31 23:29:00 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-07-31 23:41:12 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 12:44:06 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 12:44:17 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-08-01 12:44:17 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 12:44:17 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 12:44:18 WARN  LoginService:36 - Valid User
+2018-08-01 12:44:18 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 12:44:18 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 12:44:18 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 12:44:18 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 12:44:18 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 12:44:18 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 12:44:18 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 12:44:22 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 12:44:22 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 12:44:22 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 12:50:52 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 12:51:05 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-08-01 12:51:05 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 12:51:05 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 12:51:06 WARN  LoginService:36 - Valid User
+2018-08-01 12:51:06 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 12:51:06 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 12:51:06 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 12:51:06 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 12:51:06 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 12:51:06 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 12:51:06 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 12:51:09 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 12:51:09 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 12:51:09 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 12:51:23 INFO  LoginController:84 - Inside controller POST:productAdd()...
+2018-08-01 12:51:23 WARN  LoginService:48 - Inside Service productSaveRecordService() :
+2018-08-01 12:51:23 DEBUG LoginRepository:44 - Inside Repository:productSaveRecordRepository()
+2018-08-01 12:51:23 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 12:51:23 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 12:51:23 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 12:51:23 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 12:51:23 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 12:51:23 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 12:51:23 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 10 Proudct Quantity 10
+2018-08-01 12:55:10 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 12:55:21 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-08-01 12:55:21 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 12:55:21 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 12:55:21 WARN  LoginService:36 - Valid User
+2018-08-01 12:55:21 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 12:55:21 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 12:55:21 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 12:55:21 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 12:55:21 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 12:55:21 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 12:55:21 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 12:55:21 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 10 Proudct Quantity 10
+2018-08-01 13:00:47 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 13:01:00 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-08-01 13:01:00 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 13:01:00 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 13:01:00 WARN  LoginService:36 - Valid User
+2018-08-01 13:01:00 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 13:01:00 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 13:01:00 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 13:01:00 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 13:01:00 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 13:01:00 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 13:01:00 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 13:01:00 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 10 Proudct Quantity 10
+2018-08-01 13:01:06 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 13:01:07 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 13:01:07 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 13:01:15 INFO  LoginController:84 - Inside controller POST:productAdd()...
+2018-08-01 13:01:15 WARN  LoginService:48 - Inside Service productSaveRecordService() :
+2018-08-01 13:01:15 DEBUG LoginRepository:44 - Inside Repository:productSaveRecordRepository()
+2018-08-01 13:01:15 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 13:01:15 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 13:01:15 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 13:01:15 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 13:01:15 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 13:01:15 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 13:01:15 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 10 Proudct Quantity 10
+2018-08-01 13:01:15 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 15
+2018-08-01 13:02:47 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 13:02:56 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-08-01 13:02:56 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 13:02:57 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 13:02:57 WARN  LoginService:36 - Valid User
+2018-08-01 13:02:57 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 13:02:57 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 13:02:57 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 13:02:57 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 13:02:57 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 13:02:57 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 13:02:57 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 13:02:57 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 10 Proudct Quantity 10
+2018-08-01 13:02:57 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 15
+2018-08-01 13:03:01 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 13:03:01 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 13:03:01 DEBUG LoginRepository:68 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 13:03:56 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 13:03:56 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 13:03:56 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 13:04:05 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 13:04:05 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 13:04:05 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 13:04:05 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 13:04:05 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 13:04:05 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 13:04:05 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 13:04:05 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 10 Proudct Quantity 10
+2018-08-01 13:04:05 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 15
+2018-08-01 15:20:39 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 15:20:48 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-08-01 15:20:48 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 15:20:49 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 15:20:49 WARN  LoginService:36 - Valid User
+2018-08-01 15:20:49 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 15:20:49 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 15:20:49 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 15:20:49 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 15:20:49 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 15:20:49 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 15:20:49 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 15:20:49 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 10 Proudct Quantity 10
+2018-08-01 15:20:49 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 15
+2018-08-01 15:20:55 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 15:20:55 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 15:20:55 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 15
+2018-08-01 15:20:55 WARN  LoginService:72 - Inside Service deleteProductService() :
+2018-08-01 15:20:55 WARN  LoginRepository:82 - Inside Service deleteProductRepository() :
+2018-08-01 15:20:56 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 15:20:56 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 15:20:56 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 15:20:56 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 15:20:56 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 15:20:56 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 15:20:56 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 15:20:56 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 10 Proudct Quantity 10
+2018-08-01 15:21:01 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 15:21:01 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 15:21:01 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 10 Proudct Quantity 10
+2018-08-01 15:21:01 WARN  LoginService:72 - Inside Service deleteProductService() :
+2018-08-01 15:21:01 WARN  LoginRepository:82 - Inside Service deleteProductRepository() :
+2018-08-01 15:21:01 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 15:21:01 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 15:21:01 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 15:21:01 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 15:21:01 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 15:21:01 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 15:21:01 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 15:21:04 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 15:21:04 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 15:21:04 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 20
+2018-08-01 15:21:04 WARN  LoginService:72 - Inside Service deleteProductService() :
+2018-08-01 15:21:04 WARN  LoginRepository:82 - Inside Service deleteProductRepository() :
+2018-08-01 15:21:05 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 15:21:05 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 15:21:05 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 15:21:05 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 15:21:05 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 15:21:05 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 15:24:04 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 15:24:09 INFO  LoginController:39 - Inside Registration GET Method:
+2018-08-01 15:24:16 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 15:24:24 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-08-01 15:24:24 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 15:24:24 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 15:24:24 WARN  LoginService:36 - Valid User
+2018-08-01 15:24:24 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 15:24:24 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 15:24:24 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 15:24:24 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 15:24:24 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 15:24:24 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 15:24:56 INFO  LoginController:84 - Inside controller POST:productAdd()...
+2018-08-01 15:24:56 WARN  LoginService:48 - Inside Service productSaveRecordService() :
+2018-08-01 15:24:56 DEBUG LoginRepository:44 - Inside Repository:productSaveRecordRepository()
+2018-08-01 15:24:56 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 15:24:56 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 15:24:56 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 15:24:56 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 15:24:56 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 15:24:56 DEBUG LoginRepository:56 -  Product Name: Johnshon Baby Shop Product Description baby shop Product Price 25 Proudct Quantity 10
+2018-08-01 15:25:08 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 15:25:08 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 15:25:08 DEBUG LoginRepository:68 -  Product Name: Johnshon Baby Shop Product Description baby shop Product Price 25 Proudct Quantity 10
+2018-08-01 15:25:08 WARN  LoginService:72 - Inside Service deleteProductService() :
+2018-08-01 15:25:08 WARN  LoginRepository:82 - Inside Service deleteProductRepository() :
+2018-08-01 15:25:08 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 15:25:08 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 15:25:08 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 15:25:08 DEBUG LoginRepository:56 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 15:25:08 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 15:25:08 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 15:28:18 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 15:28:18 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 15:28:18 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 15:29:25 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 15:29:25 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 15:29:25 DEBUG LoginRepository:68 -  Product Name: Rim Shop Product Description Cloth Shop Product Price 5 Proudct Quantity 10
+2018-08-01 15:29:25 WARN  LoginService:72 - Inside Service deleteProductService() :
+2018-08-01 15:29:25 WARN  LoginRepository:82 - Inside Service deleteProductRepository() :
+2018-08-01 15:29:25 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 15:29:25 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 15:29:25 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 15:29:25 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 15:29:25 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 15:40:23 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 15:40:32 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-08-01 15:40:32 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 15:40:33 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 15:40:33 WARN  LoginService:36 - Valid User
+2018-08-01 15:40:33 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 15:40:33 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 15:40:33 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 15:40:33 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 15:40:33 DEBUG LoginRepository:56 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 15:40:36 WARN  LoginService:72 - Inside Service deleteProductService() :
+2018-08-01 15:40:36 WARN  LoginRepository:82 - Inside Service deleteProductRepository() :
+2018-08-01 15:40:36 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 15:40:36 DEBUG LoginRepository:68 -  Product Name: Laptop Charger Product Description Support All Laptop Product Price 1580 Proudct Quantity 10
+2018-08-01 15:40:36 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 15:40:36 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 15:40:36 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 15:40:36 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 16:06:22 INFO  LoginController:55 - Inside controller GET:userLogin()...
+2018-08-01 16:06:39 INFO  LoginController:62 - Inside controller POST:userLogin()...
+2018-08-01 16:06:39 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 16:06:39 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 16:06:39 WARN  LoginService:36 - Valid User
+2018-08-01 16:06:39 INFO  LoginController:76 - Inside controller GET:productAdd()...
+2018-08-01 16:06:39 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 16:06:39 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 16:06:39 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 16:06:49 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 16:06:49 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 16:06:49 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 16:11:20 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 16:11:28 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 16:11:28 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 16:11:28 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 16:11:29 WARN  LoginService:36 - Valid User
+2018-08-01 16:11:29 INFO  LoginController:77 - Inside controller GET:productAdd()...
+2018-08-01 16:11:29 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 16:11:29 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 16:11:29 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 16:11:33 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 16:11:33 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 16:11:33 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 16:12:18 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 16:12:18 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 16:12:18 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 16:12:28 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 16:12:38 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 16:12:38 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 16:12:38 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 16:12:38 WARN  LoginService:36 - Valid User
+2018-08-01 16:12:38 INFO  LoginController:77 - Inside controller GET:productAdd()...
+2018-08-01 16:12:38 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 16:12:38 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 16:12:38 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 16:12:41 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 16:12:41 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 16:12:41 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 16:12:51 WARN  LoginService:66 - Inside Service updateProductByIDService() :
+2018-08-01 16:12:51 WARN  LoginRepository:75 - Inside Service updateProductByIDService() :
+2018-08-01 16:12:51 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 16:12:51 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 16:12:51 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 200 Proudct Quantity 10
+2018-08-01 16:13:37 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 16:13:37 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 16:13:37 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 200 Proudct Quantity 10
+2018-08-01 16:16:38 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 16:16:38 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 16:16:38 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 200 Proudct Quantity 10
+2018-08-01 16:16:47 WARN  LoginService:66 - Inside Service updateProductByIDService() :
+2018-08-01 16:16:47 WARN  LoginRepository:75 - Inside Service updateProductByIDService() :
+2018-08-01 16:16:47 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 16:16:47 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 16:16:47 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 175 Proudct Quantity 10
+2018-08-01 16:18:50 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 16:19:00 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 16:19:00 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 16:19:00 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 16:19:00 WARN  LoginService:36 - Valid User
+2018-08-01 16:19:00 INFO  LoginController:77 - Inside controller GET:productAdd()...
+2018-08-01 16:19:00 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 16:19:00 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 16:19:00 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 175 Proudct Quantity 10
+2018-08-01 16:19:04 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 16:19:04 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 16:19:04 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 175 Proudct Quantity 10
+2018-08-01 16:19:09 WARN  LoginService:66 - Inside Service updateProductByIDService() :
+2018-08-01 16:19:09 WARN  LoginRepository:75 - Inside Service updateProductByIDService() :
+2018-08-01 16:19:09 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 16:19:09 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 16:19:09 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 178 Proudct Quantity 10
+2018-08-01 17:02:23 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 17:02:32 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:02:32 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:02:32 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:02:32 WARN  LoginService:36 - Valid User
+2018-08-01 17:02:32 INFO  LoginController:77 - Inside controller GET:productAdd()...
+2018-08-01 17:02:32 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:02:32 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:02:32 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 178 Proudct Quantity 10
+2018-08-01 17:02:37 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 17:02:37 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 17:02:37 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 178 Proudct Quantity 10
+2018-08-01 17:02:43 WARN  LoginService:66 - Inside Service updateProductByIDService() :
+2018-08-01 17:02:43 WARN  LoginRepository:75 - Inside Service updateProductByIDService() :
+2018-08-01 17:02:43 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:02:43 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:02:43 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 200 Proudct Quantity 10
+2018-08-01 17:03:25 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 17:03:25 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 17:03:25 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 200 Proudct Quantity 10
+2018-08-01 17:03:31 WARN  LoginService:66 - Inside Service updateProductByIDService() :
+2018-08-01 17:03:31 WARN  LoginRepository:75 - Inside Service updateProductByIDService() :
+2018-08-01 17:03:31 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:03:31 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:03:31 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 17:03:44 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 17:03:44 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 17:03:44 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 17:03:50 WARN  LoginService:66 - Inside Service updateProductByIDService() :
+2018-08-01 17:03:50 WARN  LoginRepository:75 - Inside Service updateProductByIDService() :
+2018-08-01 17:03:50 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:03:50 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:03:50 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 170 Proudct Quantity 10
+2018-08-01 17:05:05 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 17:05:16 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:05:16 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:05:16 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:05:17 WARN  LoginService:36 - Valid User
+2018-08-01 17:05:17 INFO  LoginController:77 - Inside controller GET:productAdd()...
+2018-08-01 17:05:17 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:05:17 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:05:17 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 170 Proudct Quantity 10
+2018-08-01 17:05:19 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 17:05:19 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 17:05:19 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 170 Proudct Quantity 10
+2018-08-01 17:05:24 WARN  LoginService:66 - Inside Service updateProductByIDService() :
+2018-08-01 17:05:24 WARN  LoginRepository:75 - Inside Service updateProductByIDService() :
+2018-08-01 17:05:25 INFO  LoginController:77 - Inside controller GET:productAdd()...
+2018-08-01 17:05:25 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:05:25 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:05:25 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 17:05:29 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 17:05:29 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 17:05:29 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 150 Proudct Quantity 10
+2018-08-01 17:05:34 WARN  LoginService:66 - Inside Service updateProductByIDService() :
+2018-08-01 17:05:34 WARN  LoginRepository:75 - Inside Service updateProductByIDService() :
+2018-08-01 17:05:34 INFO  LoginController:77 - Inside controller GET:productAdd()...
+2018-08-01 17:05:34 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:05:34 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:05:34 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 170 Proudct Quantity 10
+2018-08-01 17:11:11 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 17:11:23 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:11:23 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:11:23 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:11:24 WARN  LoginService:36 - Valid User
+2018-08-01 17:11:24 INFO  LoginController:78 - Inside controller GET:productAdd()...
+2018-08-01 17:11:24 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:11:24 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:11:24 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 170 Proudct Quantity 10
+2018-08-01 17:20:49 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 17:20:57 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:20:57 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:20:57 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:20:58 WARN  LoginService:36 - Valid User
+2018-08-01 17:20:58 INFO  LoginController:78 - Inside controller GET:productAdd()...
+2018-08-01 17:20:58 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:20:58 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:20:58 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 170 Proudct Quantity 10
+2018-08-01 17:30:42 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 17:30:53 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:30:53 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:30:54 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:30:54 WARN  LoginService:36 - Valid User
+2018-08-01 17:30:54 INFO  LoginController:78 - Inside controller GET:productAdd()...
+2018-08-01 17:30:54 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:30:54 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:30:54 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 170 Proudct Quantity 10
+2018-08-01 17:34:49 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 17:34:59 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:34:59 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:34:59 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:35:18 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:35:18 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:35:18 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:35:18 WARN  LoginService:36 - Valid User
+2018-08-01 17:35:18 INFO  LoginController:78 - Inside controller GET:productAdd()...
+2018-08-01 17:35:18 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:35:18 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:35:18 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 170 Proudct Quantity 10
+2018-08-01 17:37:31 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 17:37:45 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:37:45 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:37:45 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:37:45 WARN  LoginService:36 - Valid User
+2018-08-01 17:37:45 INFO  LoginController:78 - Inside controller GET:productAdd()...
+2018-08-01 17:37:45 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:37:45 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:37:45 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 170 Proudct Quantity 10
+2018-08-01 17:40:39 WARN  LoginService:60 - Inside Service findProductByIDService() :
+2018-08-01 17:40:39 WARN  LoginRepository:62 - Inside Service findProductByIDService() :
+2018-08-01 17:40:39 DEBUG LoginRepository:68 -  Product Name: Water Bottle Product Description Pure Steel Product Price 170 Proudct Quantity 10
+2018-08-01 17:43:51 WARN  LoginService:66 - Inside Service updateProductByIDService() :
+2018-08-01 17:43:51 WARN  LoginRepository:75 - Inside Service updateProductByIDService() :
+2018-08-01 17:43:51 INFO  LoginController:78 - Inside controller GET:productAdd()...
+2018-08-01 17:43:51 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:43:51 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:43:51 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 175 Proudct Quantity 10
+2018-08-01 17:43:58 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 17:44:05 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:44:05 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:44:05 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:44:05 WARN  LoginService:41 - Not Valid User
+2018-08-01 17:44:05 INFO  LoginController:78 - Inside controller GET:productAdd()...
+2018-08-01 17:44:05 WARN  LoginService:54 - Inside Service productGetRecordService() :
+2018-08-01 17:44:05 DEBUG LoginRepository:50 - Inside Repository:productGetRecordRepository()
+2018-08-01 17:44:05 DEBUG LoginRepository:56 -  Product Name: Water Bottle Product Description Pure Steel Product Price 175 Proudct Quantity 10
+2018-08-01 17:45:16 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 17:45:37 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:45:37 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:45:37 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:45:45 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:45:45 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:45:45 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:46:35 INFO  LoginController:56 - Inside controller GET:userLogin()...
+2018-08-01 17:46:42 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:46:42 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:46:42 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:46:42 WARN  LoginService:41 - Not Valid User
+2018-08-01 17:46:48 INFO  LoginController:63 - Inside controller POST:userLogin()...
+2018-08-01 17:46:48 WARN  LoginService:32 - Inside Service : Login
+2018-08-01 17:46:48 DEBUG LoginRepository:32 - Inside Repository : Login
+2018-08-01 17:46:48 WARN  LoginService:41 - Not Valid User

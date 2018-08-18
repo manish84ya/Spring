@@ -1,0 +1,28 @@
+package co.in.repository;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate3.HibernateTemplate;
+import org.springframework.stereotype.Repository;
+
+import co.in.model.UploadItem;
+
+@Repository
+
+
+public class ProductRepository 
+{
+	@Autowired
+	HibernateTemplate ht;
+	
+	UploadItem user=new UploadItem();
+	public void Product_Repository_Demo(String image)
+	{
+		System.out.println("Product_Repository_Demo");
+		System.out.println(image);
+		
+		ht.save(image);
+		System.out.println("Save In DB");
+		
+	}
+
+}

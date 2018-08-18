@@ -1,0 +1,15 @@
+
+squid:S1488!"[Immediately return this expression instead of assigning it to the temporary variable "emp".(îæÿÃ8ö¤İÍ,HËRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü’êøıÿÿÿÿ8±Ò½Í,HêRMAJORZ
+CODE_SMELL
+”squid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "employee".(Æü«µ8†»ÆÍ,HëRMINORZ
+CODE_SMELL
+•squid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(Áå’Úøÿÿÿÿ8¿½·‘Í,HìRMINORZ
+CODE_SMELL
+psquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8¿½·‘Í,HîRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì§ş8¿½·‘Í,HíRMAJORZ
+CODE_SMELL

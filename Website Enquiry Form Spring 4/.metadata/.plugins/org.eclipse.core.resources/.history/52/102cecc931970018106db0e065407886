@@ -1,0 +1,118 @@
+function validation()
+{
+    var flag=true;
+    
+	var name=document.getElementById("enquiryPersonName").value;
+	var mob=document.getElementById("contactNumber").value;
+	var email=document.getElementById("emailId").value;
+	var profession=document.getElementById("profession");
+	var comment=document.getElementById("comment").value;
+  	
+	var s1=document.getElementById("s1");
+	var s2=document.getElementById("s2");
+	var s3=document.getElementById("s3");
+	var s4=document.getElementById("s4");
+	var s5=document.getElementById("s5");
+
+	
+	 /* Name Validation */
+	if(name.length==0)
+	{
+		s1.innerHTML="Enter your Name";
+		s1.style.color="red";
+	    flag=false;
+	}
+	else if(!isNaN(name))
+	{
+		s1.innerHTML="Enter Only Character";
+		s1.style.color="red";
+	    flag=false;
+	}
+	else if(name.length<3)
+	{
+
+			s1.innerHTML="Name Can Not Be Less Than 3 Characater";
+			s1.style.color="red";
+			 flag=false; 
+	}
+	else
+	{
+
+			s1.innerHTML="";
+	}
+	/* Name Validation End  */
+/*---------------------------------------------------------------------------------------------  */
+	/* Contact Validation Start  */
+	
+	if(mob.length==0)
+	{
+		s2.innerHTML="Enter your Mobile No";
+		s2.style.color="red";
+		 flag=false;
+	}
+	else if(isNaN(mob))
+	{
+		s2.innerHTML="Enter only Digits";
+		flag=false;
+	}
+	else if(mob.length!=10)
+	{
+		s2.innerHTML="Enter 10 digit mobile no";
+		s2.style.color="red";
+		flag=false;
+	}
+
+	else
+	{
+		s2.innerHTML="";
+	}
+	/* Contact Validation End  */
+/*---------------------------------------------------------------------------------------------  */
+	/* Email Validation Start  */
+	var pattern=/^[a-zA-Z0-9_.]+@[a-zA-Z]+\.[a-zA-Z]+$/;
+	 
+	 var b= pattern.test(email);
+	 if(email.length==0)
+     {
+		document.getElementById("s3").innerHTML="Please Enter Email";
+		s3.style.color="red";
+		flag=false;
+     }
+	else if(!b)
+     {
+      document.getElementById("s3").innerHTML="Enter Correct Email";
+      s3.style.color="red";
+      flag=false;
+     }
+     else
+     {
+    	document.getElementById("s3").innerHTML="";    
+  	 }
+
+	 /* Email Validation End  */
+/*---------------------------------------------------------------------------------------------  */		
+	 /* Profession Validation Start  */
+		
+	   if(profession.selectedIndex==0)
+       {
+           s4.innerHTML="Please Select Profession";
+           s4.style.color="red";
+           flag=false;
+       }
+		 /* Profession Validation End  */
+/*---------------------------------------------------------------------------------------------  */		
+		 /* Comment Validation Start  */
+		if(comment.length==0)
+        {
+            s5.innerHTML="Please Enter Comment";
+            s5.style.color="red";
+            flag=false;
+          }
+/*---------------------------------------------------------------------------------------------  */		
+    
+	    return flag;
+}
+function clearall(x)
+{
+    x.innerHTML="";
+}

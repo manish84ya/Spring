@@ -1,0 +1,5 @@
+package com.TightlyCoupled;
+
+public interface IOutputGenerator {
+
+}

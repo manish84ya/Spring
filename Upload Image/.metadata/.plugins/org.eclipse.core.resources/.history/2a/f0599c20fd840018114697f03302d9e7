@@ -1,0 +1,32 @@
+package co.in.controller;
+
+import java.util.Map;
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import co.in.model.Product;
+import co.in.service.ProductService;
+
+@Controller
+
+public class ProductController 
+{
+	@Autowired
+	private ProductService productservice;
+	
+	@RequestMapping(value = "/product", method = { RequestMethod.GET, RequestMethod.POST })
+	public String saveProduct(@ModelAttribute("prodMap") Product prod, Model model,HttpServletRequest request) 
+	{
+		return "product";
+	}
+}
+		
+		
+		
+

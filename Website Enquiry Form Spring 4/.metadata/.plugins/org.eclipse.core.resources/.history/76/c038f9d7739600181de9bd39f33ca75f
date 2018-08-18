@@ -1,0 +1,6 @@
+package com.websiteEnquiry.config;
+
+public class AppConfig 
+{
+
+}

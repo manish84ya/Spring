@@ -1,0 +1,27 @@
+package co.in.service;
+
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import co.in.repository.ProductRepository;
+
+@Service
+public class ProductService 
+{
+	@Autowired
+	private ProductRepository productrepository;
+
+	public void Product_Service_Demo(String image)
+	{
+		/*
+	System.out.println(req.getSession().getAttribute("uploadFile"));
+		*/
+		
+		System.out.println("Inside_Product_service_Demo");
+		System.out.println(image);
+		
+		productrepository.Product_Repository_Demo(image);
+	}
+
+}

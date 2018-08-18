@@ -1,0 +1,13 @@
+package com.TightlyCoupled;
+
+public class Test {
+
+	public static void main(String[] args) 
+	{
+		IOutputGenerator obj=new CsvOutputGenerator();
+		obj.generateOutput();
+
+
+	}
+
+}

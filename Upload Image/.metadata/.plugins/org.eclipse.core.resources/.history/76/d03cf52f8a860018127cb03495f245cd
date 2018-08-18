@@ -1,0 +1,13 @@
+package co.in.repository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class ProductRepository 
+{
+	public void Product_Repository_Demo(String image)
+	{
+		System.out.println("Product_Repository_Demo");
+	}
+
+}

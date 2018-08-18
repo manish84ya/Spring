@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1532771493400_0" label="springboot" name="springboot"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1532772684170_1" label="FirstApplication" name="FirstApplication"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1532774007813_2" label="zohoboot" name="zohoboot"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1532792411362_4" label="zohobootjpa" name="zohobootjpa">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/zohoadminbootjpa" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/zohorepositorybootjpa" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/zohoservicebootjpa" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/zohobootjpa" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1532787099669_3" label="Window Working Set" name="Aggregate for window 1532787099668"/>
+</workingSetManager>

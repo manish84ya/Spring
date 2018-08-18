@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+D:\Programs\Spring Boot JPA Crud Operation Final\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\945377586.index
+\Admin\src\main\resources
+D:\Programs\Spring Boot JPA Crud Operation Final\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3415326506.index
+\Admin\src\main\java

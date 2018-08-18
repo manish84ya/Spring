@@ -1,0 +1,25 @@
+
+dsquid:S1905/"+Remove this unnecessary cast to "Employee".(ø¦õÞþÿÿÿÿ8¿¼ª‘Í,HõRMINORZ
+CODE_SMELL
+l
+squid:S106<"9Replace this use of System.out or System.err by a logger.(¬»´·8ÄÍÇ¨Í,HóRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(áÄÈþ8ðÄôÍ,HðRMAJORZ
+CODE_SMELL
+l
+squid:S106%"9Replace this use of System.out or System.err by a logger.(È€Æô8¿¼ª‘Í,HïRMAJORZ
+CODE_SMELL
+dsquid:S1905;"+Remove this unnecessary cast to "Employee".(ÑðÏâÿÿÿÿÿ8‹þµÍ,HòRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(˜‹Š©ýÿÿÿÿ8»Œ‘àÍ,HöRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢ò®ð8ÄÍÇ¨Í,HöRMAJORZ
+CODE_SMELL
+q
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ÐáâÁüÿÿÿÿ8í¤‘Í,HôRMAJORZ
+CODE_SMELL
+l
+squid:S106+"9Replace this use of System.out or System.err by a logger.(›ÉåÕ8‹þµÍ,HñRMAJORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+package com.spring.jpa.repository;
+
+public interface UserRepository {
+
+}

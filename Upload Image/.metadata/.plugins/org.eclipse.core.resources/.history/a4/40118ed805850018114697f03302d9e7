@@ -1,0 +1,79 @@
+package co.in.controller;
+
+import java.util.Map;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.apache.commons.collections.set.SynchronizedSortedSet;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.multipart.MultipartFile;
+
+import co.in.model.Product;
+import co.in.service.ProductService;
+
+@Controller
+
+public class ProductController 
+{
+	@Autowired
+	private ProductService productservice;
+	
+	/*@RequestMapping(value = "/product", method = { RequestMethod.GET, RequestMethod.POST })
+	public String saveProduct(@ModelAttribute("prodMap") Product prod, Model model,HttpServletRequest request) 
+	{
+		model.addAttribute("prodMap", prod);
+		
+
+		System.out.println("Inside Get  "+request.getMethod().toLowerCase());
+		
+		if ("post".equals(request.getMethod().toLowerCase())) 
+		{
+			System.out.println("Inside Post");
+			productservice.Product_Service_Demo();
+			return "product";
+		}
+		
+		return "product";
+	}*/
+	
+	@RequestMapping("/product")
+	public String saveProduct(Map<String,Object> map)
+	{
+		System.out.println("Inside Controller");
+		
+		System.out.println("Inside Get");
+		map.put("userMap",new Product());
+			return "product";
+	}
+	
+	@RequestMapping(value="/product",method = RequestMethod.POST)
+	public String SingInAction(@ModelAttribute("userMap") Product product,HttpServletRequest req,HttpServletResponse res)
+	{	
+		System.out.println("Inside Post");
+		MultipartFile file=(MultipartFile) product.getProimage(); 
+		System.out.println(file);
+		System.out.println(product.getPid());
+		System.out.println(product.getPname());
+		System.out.println(product.getPprice());
+		System.out.println(product.getPdescription());
+		System.out.println(product.getProimage());
+		
+		
+		
+		productservice.Product_Service_Demo();
+		return "product";
+	
+	}
+	
+	
+	
+}
+		
+		
+		
+

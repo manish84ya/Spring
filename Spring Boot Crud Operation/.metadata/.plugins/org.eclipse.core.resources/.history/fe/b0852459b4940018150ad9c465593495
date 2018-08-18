@@ -1,0 +1,49 @@
+package com.aartek.repository;
+
+import java.util.Iterator;
+import java.util.List;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate5.HibernateTemplate;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.aartek.model.User;
+
+@Repository
+@Transactional
+public class LoginRepository {
+
+	@Autowired
+	private HibernateTemplate hibernatetemplate;
+	
+	final static Logger logger = Logger.getLogger(LoginRepository.class);
+	public String saveUserRecordRepository(User user)
+	{
+		logger.debug("Inside Repository:");
+		hibernatetemplate.save(user);
+		return "registration";
+	}
+	
+	public User checkLogin(User user)
+	{
+		logger.debug("Inside Repository : Login");
+		List<User> list=(List<User>) hibernatetemplate.find("from User u where u.email=? and u.password=? ",user.getEmail(),user.getPassword());
+		User usr = null;
+	 	for(Iterator<User> itr=list.iterator();itr.hasNext();)
+		 {
+			  usr=(User)itr.next();
+			 System.out.println("    "+usr.getEmail()+"   " +usr.getPassword() );
+		 }
+	 	return usr;
+	}
+	/*public Boolean loginRepoCheck(String email,String password)
+	{
+		System.out.println("Inside LoginRepository : loginRepoCheck() ");
+		System.out.println(email);
+		System.out.println(password);
+		return true;
+		
+	}*/
+}

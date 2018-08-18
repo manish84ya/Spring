@@ -1,0 +1,7 @@
+package com.website.enquiry.controller;
+
+@Controller
+public class Controller 
+{
+
+}

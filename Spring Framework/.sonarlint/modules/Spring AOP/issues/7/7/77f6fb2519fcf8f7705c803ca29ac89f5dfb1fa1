@@ -1,0 +1,12 @@
+
+lsquid:S3518"CMake sure this expression can't be zero before doing this division.(ÃÅ—HÃ RCRITICALZBUG
+bsquid:S1854"5Remove this useless assignment to local variable "x".(ÃÅ—HÆ RMAJORZ
+CODE_SMELL
+„squid:S00117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÈÎúÿÿÿÿHÂ RMINORZ
+CODE_SMELL
+Ssquid:S1481"&Remove this unused "x" local variable.(ÃÅ—HÄ RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÙÁ­ıÿÿÿÿHÅ RMAJORZ
+CODE_SMELL

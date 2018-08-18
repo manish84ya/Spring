@@ -1,0 +1,16 @@
+
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(áËŠ¼øÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(û…´TH‹RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(î¸ıÿÿÿÿHRMAJORZ
+CODE_SMELL
+e
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÉáğèHRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä­ş 8ü‹Ş…Î,HÚRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’ìÛ¿øÿÿÿÿ8ü‹Ş…Î,HÛRMAJORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+package com.website.enquiry.model;
+
+public class EnquiryDTO {
+
+}

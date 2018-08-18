@@ -1,0 +1,28 @@
+
+Ysquid:S1905$"'Remove this unnecessary cast to "User".(—ï˜£ıÿÿÿÿHÉRMINORZ
+CODE_SMELL
+j
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÏÍÉüÿÿÿÿHÆRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(„ËŒèùÿÿÿÿHÂRMAJORZ
+CODE_SMELL
+j
+squid:S106-"9Replace this use of System.out or System.err by a logger.(¬®ÊÿÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHÍRMINORZ
+CODE_SMELL
+]squid:S1172"+Remove this unused method parameter "user".(“›‘ªúÿÿÿÿHËRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßİ´åHÅRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(ªÆ›òıÿÿÿÿHÃRMAJORZ
+CODE_SMELL
+j
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ë™©²ıÿÿÿÿHÈRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(±£ŸøÿÿÿÿHÄRMAJORZ
+CODE_SMELL
+}squid:UselessImportCheck"CRemove this unused import 'javassist.bytecode.Descriptor.Iterator'.(Ïó² HÌRMINORZ
+CODE_SMELL

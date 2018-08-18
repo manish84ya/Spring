@@ -1,0 +1,28 @@
+
+|squid:S00100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ˆöΩH≥"RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(⁄ƒ±üH¥"RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å∑¨ﬂHµ"RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëﬁå§H∂"RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÔ≥‘H∑"RMINORZ
+CODE_SMELL
+Åsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˙ÏöÅ¯ˇˇˇˇH∏"RMINORZ
+CODE_SMELL
+squid:S00116"RRename this field "book_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆŸÙAHπ"RMINORZ
+CODE_SMELL
+Çsquid:S00116"TRename this field "book_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¶°ËH∫"RMINORZ
+CODE_SMELL
+Ésquid:S00116"URename this field "book_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÍóÿHª"RMINORZ
+CODE_SMELL
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(⁄ƒ±üHº"RMINORZ
+CODE_SMELL
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëﬁå§HΩ"RMINORZ
+CODE_SMELL
+Ñsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˙ÏöÅ¯ˇˇˇˇHæ"RMINORZ
+CODE_SMELL
+àsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(π∞∂ÚHø"RMINORZ
+CODE_SMELL

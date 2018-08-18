@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Loosely Coupled Program Using Spring/src/com/LooselyCouple/Test.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.LooselyCouple.Test"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Loosely Coupled Program Using Spring"/>
+</launchConfiguration>

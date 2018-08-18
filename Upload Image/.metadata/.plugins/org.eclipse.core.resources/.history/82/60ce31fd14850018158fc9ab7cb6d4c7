@@ -1,0 +1,84 @@
+package co.in.model;
+
+import java.util.List;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.OneToMany;
+import javax.persistence.Table;
+
+import org.hibernate.annotations.CascadeType;
+
+@Entity
+@Table(name="products")
+public class Product {
+
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	@Column(name="pid")
+	private Integer pid;
+
+	@Column(name="pname")
+	private String pname;
+
+	@Column(name="pdescription")
+	private String pdescription;
+
+	@Column(name="pprice")
+	private Double pprice;
+
+	@OneToMany(targetEntity=ProductImage.class,fetch=FetchType.LAZY,cascade=javax.persistence.CascadeType.ALL)
+	@JoinColumn(name="pid",referencedColumnName="pid")
+	
+	
+	private List proimage;
+	
+	public List getProimage() {
+		return proimage;
+	}
+
+	public void setProimage(List proimage) {
+		this.proimage = proimage;
+	}
+
+	public Integer getPid() {
+		return pid;
+	}
+
+	public void setPid(Integer pid) {
+		this.pid = pid;
+	}
+
+	public String getPname() {
+		return pname;
+	}
+
+	public void setPname(String pname) {
+		this.pname = pname;
+	}
+
+	public String getPdescription() {
+		return pdescription;
+	}
+
+	public void setPdescription(String pdescription) {
+		this.pdescription = pdescription;
+	}
+
+	public Double getPprice() {
+		return pprice;
+	}
+
+	public void setPprice(Double pprice) {
+		this.pprice = pprice;
+	}
+
+
+	
+	
+}

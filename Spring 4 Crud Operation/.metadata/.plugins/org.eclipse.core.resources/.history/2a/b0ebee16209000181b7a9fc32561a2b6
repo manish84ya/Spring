@@ -1,0 +1,23 @@
+package com.aartek.repository;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate4.HibernateTemplate;
+import org.springframework.stereotype.Repository;
+
+import com.aartek.model.Employee;
+
+@Repository
+public class RegistrationRepository 
+{
+	@Autowired
+	private HibernateTemplate ht;
+	public Employee RegistrationRepositoryMethod(Employee emp)
+	{
+		System.out.println("Inside RegistrationRepository ");
+		ht.save(emp);
+		return emp;
+		
+	}
+
+
+}

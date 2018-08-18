@@ -1,0 +1,4 @@
+com\aartek\transaction\EmployeeDao.class
+com\aartek\model\EmployeeDao.class
+com\aartek\model\Employee.class
+com\aartek\repository\RegistrationRepository.class

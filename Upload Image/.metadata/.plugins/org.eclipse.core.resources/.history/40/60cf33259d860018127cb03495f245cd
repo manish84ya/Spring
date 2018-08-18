@@ -1,0 +1,51 @@
+package co.in.repository;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate3.HibernateTemplate;
+import org.springframework.stereotype.Repository;
+
+import co.in.model.UploadItem;
+import co.in.model.saveImage;
+
+@Repository
+
+
+public class ProductRepository 
+{
+	@Autowired
+	HibernateTemplate ht;
+	
+	public void Product_Repository_Demo(UploadItem product)
+	{
+		System.out.println("Product_Repository_Demo");
+		System.out.println(product.getFilename());
+		/*System.out.println("Save In DB");*/
+		String img=product.getFilename();
+		saveImage sve=new saveImage();
+		sve.setFilename(img);
+		ht.save(sve);
+		
+	}
+	
+	public String findImage()
+	{
+		int id;
+		String img=null;
+
+		System.out.println("inside ******* findImage()");
+		List<saveImage> l=ht.find("from saveImage");
+		java.util.Iterator<saveImage> itr1=l.iterator();
+		while(itr1.hasNext())
+		{
+			saveImage u=(saveImage)itr1.next();
+			id=u.getId();
+			img=u.getFilename();
+			System.out.println(id+"   "+img);
+		}
+			return "img";
+	}
+	
+
+}

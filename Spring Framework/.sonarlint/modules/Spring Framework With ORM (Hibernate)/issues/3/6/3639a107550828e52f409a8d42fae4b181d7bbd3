@@ -1,0 +1,18 @@
+
+†squid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(®¾è¶Hö"RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(ÑˆµâùÿÿÿÿH÷"RMAJORZ
+CODE_SMELL
+j
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ôæ­úÿÿÿÿHø"RMAJORZ
+CODE_SMELL
+[squid:S1905".Remove this unnecessary cast to "EmployeeDTO".(Éö¥¯Hù"RMINORZ
+CODE_SMELL
+[squid:S1905%".Remove this unnecessary cast to "EmployeeDTO".(Éö¥¯Hú"RMINORZ
+CODE_SMELL
+`squid:S19053".Remove this unnecessary cast to "EmployeeDTO".(×µ­—üÿÿÿÿHû"RMINORZ
+CODE_SMELL
+bsquid:S1854,"5Remove this useless assignment to local variable "l".(®¾è¶Hü"RMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¬×¶Hý"RMINORZ
+CODE_SMELL

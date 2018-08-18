@@ -1,0 +1,280 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1" isELIgnored="false"%>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<div  class="container">
+<h3><center>Website Enquiry Form</center></h3>
+
+  <form:form   modelAttribute="enquiry" action="enquiryDetail" method="POST">
+    <div class="row">
+      <div class="col-75">
+      	<label for="name">Name</label>
+        <input type="text" id="enquiryPersonName" name=enquiryPersonName placeholder="Your name.." onblur="clearall(s1)">
+        <span id = "s1"> </span>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-75">
+       <label for="contactNumber">Contact Number</label>
+      	<input type="text" id="contactNumber" name="contactNumber" placeholder="Your contact number.."onblur="clearall(s2)">
+      <span id = "s2"> </span>
+      </div>
+    </div>
+    
+    <div class="row">
+       <div class="col-75">
+       <label for="emailId">Email</label>
+     	<input type="text" id="emailId" name="emailId" placeholder="Your email.."  onblur="clearall(s3)">
+      <span id = "s3"> </span>
+      </div>
+    </div>
+    
+    <div class="row">
+    <div class="col-75">
+        <label for="profession">Profession</label>
+        <select id="profession" name="profession"onchange="clearall(s4)">
+          <option value="student">Select Profession</option>
+          <option value="engineer">Engineer</option>
+          <option value="student">Student</option>
+          <option value="architect">Architect</option>
+          <option value="teacher">Teacher</option>
+         </select>
+      <span id = "s4"> </span>
+    </div>
+    </div>
+    <div class="row">
+  	<div class="col-75">
+         <label for="comment">Comment</label>
+      	  <textarea id="comment" name="comment" placeholder="Write something.." style="height:100px" onblur="clearall(s5)"></textarea>
+      <span id = "s5"> </span>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-75">
+       <label for="promotionalMsg">Send Me Promotional Information</label>
+     	<input type="checkbox" id="promotionalMsg" name="promotionalMsg" onchange="clearall(s6)">
+     		<span id = "s6"> </span>
+      	
+      </div>
+    </div>
+      <input type="submit" value="Submit" onclick="return validation()">
+      <input type="reset" value="Reset">
+      </form:form>
+</div>
+
+</body>
+
+<head>
+<!--JS VALIDATIONS  -->
+
+<script type="text/javascript">
+function validation()
+{
+    flag=true;
+    
+	name=document.getElementById("enquiryPersonName").value;
+	mob=document.getElementById("contactNumber").value;
+	email=document.getElementById("emailId").value;
+	profession=document.getElementById("profession");
+	comment=document.getElementById("comment").value;
+  	
+	s1=document.getElementById("s1");
+	s2=document.getElementById("s2");
+	s3=document.getElementById("s3");
+	s4=document.getElementById("s4");
+	s5=document.getElementById("s5");
+	s6=document.getElementById("s6");
+	
+	 /* Name Validation */
+	if(name.length==0)
+	{
+		s1.innerHTML="Enter your Name";
+		s1.style.color="red";
+	    flag=false;
+	}
+	else if(!isNaN(name))
+	{
+		s1.innerHTML="Enter Only Character";
+		s1.style.color="red";
+	    flag=false;
+	}
+	else if(name.length<3)
+	{
+
+			s1.innerHTML="Name Can Not Be Less Than 3 Characater";
+			s1.style.color="red";
+			 flag=false; 
+	}
+	else
+	{
+
+			s1.innerHTML="";
+	}
+	/* Name Validation End  */
+/*---------------------------------------------------------------------------------------------  */
+	/* Contact Validation Start  */
+	
+	if(mob.length==0)
+	{
+		s2.innerHTML="Enter your Mobile No";
+		s2.style.color="red";
+		 flag=false;
+	}
+	else if(isNaN(mob))
+	{
+		s2.innerHTML="Enter only Digits";
+		flag=false;
+	}
+	else if(mob.length!=10)
+	{
+		s2.innerHTML="Enter 10 digit mobile no";
+		s2.style.color="red";
+		flag=false;
+	}
+
+	else
+	{
+		s2.innerHTML="";
+	}
+	/* Contact Validation End  */
+/*---------------------------------------------------------------------------------------------  */
+	/* Email Validation Start  */
+	pattern=/^[a-zA-Z0-9_.]+@[a-zA-Z]+\.[a-zA-Z]+$/;
+	 
+	 b= pattern.test(email);
+	 if(email.length==0)
+     {
+		document.getElementById("s3").innerHTML="Please Enter Email";
+		s3.style.color="red";
+		flag=false;
+     }
+	else if(!b)
+     {
+      document.getElementById("s3").innerHTML="Enter Correct Email";
+      s3.style.color="red";
+      flag=false;
+     }
+     else
+     {
+    	document.getElementById("s3").innerHTML="";    
+  	 }
+
+	 /* Email Validation End  */
+/*---------------------------------------------------------------------------------------------  */		
+	 /* Profession Validation Start  */
+		
+	   if(profession.selectedIndex==0)
+       {
+           s4.innerHTML="Please Select Profession";
+           s4.style.color="red";
+           flag=false;
+       }
+		 /* Profession Validation End  */
+/*---------------------------------------------------------------------------------------------  */		
+		 /* Comment Validation Start  */
+		if(comment.length==0)
+        {
+            s5.innerHTML="Please Enter Comment";
+            s5.style.color="red";
+            flag=false;
+          }
+/*---------------------------------------------------------------------------------------------  */		
+    
+	    return flag;
+}
+function clearall(x)
+{
+    x.innerHTML="";
+}
+</script>
+
+<!--CSS STYLE  -->
+ <style>
+* {
+    box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+label {
+    padding: 10px 10px 10px 0;
+    display: inline-block;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    margin:1px 1px 1px 0px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: left;
+}
+
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+input[type=reset] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    margin:1px 1px 1px 0px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+input[type=reset]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    max-width: 500px;
+    border-radius: 10px;
+    margin: auto;
+	background-color: #a4a4f6;
+    padding: 4px;
+   
+   }
+
+
+.col-75 {
+    float: center;
+    width: 100%;
+    margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+ /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+} 
+</style>
+
+ </head>
+ </html>

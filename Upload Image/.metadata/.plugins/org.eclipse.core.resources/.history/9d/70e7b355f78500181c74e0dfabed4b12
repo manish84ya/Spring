@@ -1,0 +1,60 @@
+<%@page import="javax.websocket.Session"%>
+<%@page contentType="text/html;charset=UTF-8"%>
+<%@page pageEncoding="UTF-8"%>
+<%@ page session="false"%>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
+
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>Upload Example</title>
+</head>
+<body>
+<form:form method="POST" action="product.do" modelAttribute="userMap"
+	enctype="multipart/form-data">
+	<fieldset><legend>Upload File</legend>
+	<table>
+		<tr>
+			<td><form:label for="fileData" path="fileData">File</form:label><br />
+			</td>
+			<td><form:input path="fileData" id="image" type="file" /></td>
+		</tr>
+		<tr>
+			<td><br />
+			</td>
+			<td><input type="submit" value="Upload" /></td>
+		</tr>
+	</table>
+	</fieldset>
+	</form:form>
+
+
+</body>
+</html>
+
+<%@page contentType="text/html;charset=UTF-8"%>
+<%@page pageEncoding="UTF-8"%>
+<%@ page session="true"%>
+<%@taglib prefix="core" uri="http://java.sun.com/jsp/jstl/core"%>
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>Welcome</title>
+</head>
+<body>
+<h2><a href="uploadfile.jsp">Upload Example</a></h2>
+<%
+	if (session.getAttribute("uploadFile") != null
+			&& !(session.getAttribute("uploadFile")).equals("")) {
+%>
+<h3>Uploaded File</h3>
+<br>
+<img src="<%=session.getAttribute("uploadFile")%>" alt="Upload Image" />
+
+<%
+	session.removeAttribute("uploadFile");
+	}
+%>
+</body>
+</html>
+

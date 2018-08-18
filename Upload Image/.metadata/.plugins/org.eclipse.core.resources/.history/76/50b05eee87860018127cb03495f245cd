@@ -1,0 +1,33 @@
+package co.in.service;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpRequest;
+import org.springframework.stereotype.Service;
+import org.springframework.web.util.HttpSessionMutexListener;
+
+import com.mysql.fabric.Response;
+
+import co.in.repository.ProductRepository;
+
+@Service
+public class ProductService 
+{
+	@Autowired
+	private ProductRepository productrepository;
+
+	public void Product_Service_Demo()
+	{
+		/*
+	System.out.println(req.getSession().getAttribute("uploadFile"));
+		*/
+		
+		System.out.println("Inside_Product_service_Demo");
+		
+		productrepository.Product_Repository_Demo();
+	}
+
+}

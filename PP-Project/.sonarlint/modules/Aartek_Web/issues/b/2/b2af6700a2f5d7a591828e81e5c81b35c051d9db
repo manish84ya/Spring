@@ -1,0 +1,21 @@
+
+vsquid:S1192"FDefine a constant instead of duplicating this literal "Email" 3 times.(Ã™Ø®H˜ RCRITICALZ
+CODE_SMELL
+„squid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÈ±ßşÿÿÿÿH– RMINORZ
+CODE_SMELL
+squid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŞäH— RMINORZ
+CODE_SMELL
+e
+squid:S106E"9Replace this use of System.out or System.err by a logger.(„·ÕıH’ RMAJORZ
+CODE_SMELL
+Zsquid:S1125!"(Remove the literal "true" boolean value.(èëÆûÿÿÿÿH” RMINORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§íÒíıÿÿÿÿHœ RMINORZ
+CODE_SMELL
+‡squid:S2068U"U'Password' detected in this expression, review this potentially hardcoded credential.(¬ë·‹Hš RBLOCKERZVULNERABILITY
+‡squid:S2068R"U'Password' detected in this expression, review this potentially hardcoded credential.(×Ú”ªH™ RBLOCKERZVULNERABILITY
+j
+squid:S106C"9Replace this use of System.out or System.err by a logger.(Ê×ºÃşÿÿÿÿH“ RMAJORZ
+CODE_SMELL
+‡squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(÷´½ÂÿÿÿÿÿH• RCRITICALZ
+CODE_SMELL

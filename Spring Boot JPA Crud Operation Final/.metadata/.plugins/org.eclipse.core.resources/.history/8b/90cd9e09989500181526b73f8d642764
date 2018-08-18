@@ -1,0 +1,42 @@
+<%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+
+
+<h1><center>Update Product</center></h1>
+
+<form:form  action="editSave" method="POST"
+	modelAttribute="productMap">
+
+	<table border="1" align="center">
+		<tr>
+			<td><form:hidden path="productid" /></td>
+		</tr>
+
+		<tr>
+			<td>Product name: <form:input path="prodname" /></td>
+			<td><form:errors path="prodname" class="error" /></td>
+		</tr>
+		<tr>
+			<td>Product Desc: <form:input path="proddesc" /></td>
+			<td><form:errors path="proddesc" class="error" /></td>
+		</tr>
+		<tr>
+			<td>Product Price: <form:input path="prodprice" /></td>
+			<td><form:errors path="prodprice" class="error" /></td>
+		</tr>
+		<tr>
+			<td>Product Quantity:<form:input path="prodqty" /></td>
+			<td><form:errors path="prodqty" class="error" /></td>
+		</tr>
+<tr>
+	<td><input type="submit" value="Update Product" /></td>
+</tr>
+
+	</table>
+</form:form>
+
+
+
+
+
+

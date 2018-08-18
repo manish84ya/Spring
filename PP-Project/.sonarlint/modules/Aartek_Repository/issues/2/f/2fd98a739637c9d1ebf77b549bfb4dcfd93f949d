@@ -1,0 +1,26 @@
+
+\squid:S1656)"/Remove or correct this useless self-assignment.(â¥ÒÛ8·¥ÈæÍ,HÅ RMAJORZBUG
+asquid:S1656/"/Remove or correct this useless self-assignment.(ÊÃòİüÿÿÿÿ8·¥ÈæÍ,HÆ RMAJORZBUG
+asquid:S16566"/Remove or correct this useless self-assignment.(ŠÜ¨›ùÿÿÿÿ8·¥ÈæÍ,HÇ RMAJORZBUG
+\squid:S1656<"/Remove or correct this useless self-assignment.(à´¥ø8·¥ÈæÍ,HÈ RMAJORZBUG
+asquid:S1656B"/Remove or correct this useless self-assignment.(æõÃ´şÿÿÿÿ8·¥ÈæÍ,HÉ RMAJORZBUG
+squid:S41656"dRemove this useless assignment; "mobile" already holds the assigned value along all execution paths.(ŠÜ¨›ùÿÿÿÿ8·¥ÈæÍ,HÊ RMAJORZ
+CODE_SMELL
+Ÿsquid:S4165B"fRemove this useless assignment; "password" already holds the assigned value along all execution paths.(æõÃ´şÿÿÿÿ8·¥ÈæÍ,HË RMAJORZ
+CODE_SMELL
+›squid:S4165)"gRemove this useless assignment; "firstName" already holds the assigned value along all execution paths.(â¥ÒÛ8·¥ÈæÍ,HÌ RMAJORZ
+CODE_SMELL
+Ÿsquid:S4165/"fRemove this useless assignment; "lastName" already holds the assigned value along all execution paths.(ÊÃòİüÿÿÿÿ8·¥ÈæÍ,HÍ RMAJORZ
+CODE_SMELL
+—squid:S4165<"cRemove this useless assignment; "email" already holds the assigned value along all execution paths.(à´¥ø8·¥ÈæÍ,HÎ RMAJORZ
+CODE_SMELL
+qsquid:S1854)"=Remove this useless assignment to local variable "firstName".(â¥ÒÛ8·¥ÈæÍ,HÏ RMAJORZ
+CODE_SMELL
+usquid:S1854/"<Remove this useless assignment to local variable "lastName".(ÊÃòİüÿÿÿÿ8·¥ÈæÍ,HĞ RMAJORZ
+CODE_SMELL
+ssquid:S18546":Remove this useless assignment to local variable "mobile".(ŠÜ¨›ùÿÿÿÿ8·¥ÈæÍ,HÑ RMAJORZ
+CODE_SMELL
+msquid:S1854<"9Remove this useless assignment to local variable "email".(à´¥ø8·¥ÈæÍ,HÒ RMAJORZ
+CODE_SMELL
+usquid:S1854B"<Remove this useless assignment to local variable "password".(æõÃ´şÿÿÿÿ8·¥ÈæÍ,HÓ RMAJORZ
+CODE_SMELL

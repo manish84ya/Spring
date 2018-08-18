@@ -1,0 +1,6 @@
+
+—squid:UselessImportCheck"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8Ðíö†Î,H¿RMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùÄûšþÿÿÿÿHÀRMAJORZ
+CODE_SMELL

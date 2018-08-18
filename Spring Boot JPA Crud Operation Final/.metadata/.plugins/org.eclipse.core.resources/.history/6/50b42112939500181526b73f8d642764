@@ -1,0 +1,19 @@
+package com.spring.jpa.service;
+
+import java.util.List;
+
+import javax.transaction.Transactional;
+
+import org.springframework.stereotype.Service;
+
+import com.spring.jpa.model.User;
+
+@Service
+@Transactional
+public interface UserServiceInterface 
+{
+	public String addUser(User user);
+	public List<User> checkLogin(User user);
+	public List<User> findAll();
+
+}

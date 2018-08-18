@@ -1,0 +1,43 @@
+
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(◊å—ä8√∑ßçÕ,HœRMAJORZ
+CODE_SMELL
+Çsquid:UselessImportCheck"<Remove this unused import 'org.springframework.ui.ModelMap'.( ¡‚∫˘ˇˇˇˇ8úÒŸ›Õ,HˆRMINORZ
+CODE_SMELL
+vsquid:UselessImportCheck"0Remove this unused import 'java.util.Map.Entry'.(±˛Íæ˙ˇˇˇˇ8ﬂﬂ¶¨Õ,HÀRMINORZ
+CODE_SMELL
+àsquid:S11928"LDefine a constant instead of duplicating this literal "allemployee" 3 times.(ŒôÑ∏˙ˇˇˇˇ8´ÿ∂‡Õ,Hì	RCRITICALZ
+CODE_SMELL
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(˜âÓÉ8ﬂﬂ¶¨Õ,H RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(û¥≠¿8©√ÌﬂÕ,HËRMAJORZ
+CODE_SMELL
+q
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ªÜÂ—˛ˇˇˇˇ8Ëã§èÕ,H∆RMAJORZ
+CODE_SMELL
+q
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¿ìí˚ˇˇˇˇ8Ëã§èÕ,H≈RMAJORZ
+CODE_SMELL
+l
+squid:S106F"9Replace this use of System.out or System.err by a logger.(™˛ëË8¶ìàﬁÕ,HõRMAJORZ
+CODE_SMELL
+q
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ïá⁄á˚ˇˇˇˇ8Ëã§èÕ,H–RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ŸÅﬁ8Ëã§èÕ,H«RMAJORZ
+CODE_SMELL
+l
+squid:S1064"9Replace this use of System.out or System.err by a logger.(¯ŸÅﬁ8Ëã§èÕ,HƒRMAJORZ
+CODE_SMELL
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ÕØ—æ˛ˇˇˇˇ8ë™ ëÕ,HŒRMAJORZ
+CODE_SMELL
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ﬂ‚—¸˛ˇˇˇˇ8‘ùÕäÕ,HÕRMAJORZ
+CODE_SMELL
+q
+squid:S106*"9Replace this use of System.out or System.err by a logger.(≥Ë‚‘¯ˇˇˇˇ8ˇÂ•çÕ,HÃRMAJORZ
+CODE_SMELL
+psquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ˆ≤Ñ§˛ˇˇˇˇ8ﬂﬂ¶¨Õ,H…RMINORZ
+CODE_SMELL

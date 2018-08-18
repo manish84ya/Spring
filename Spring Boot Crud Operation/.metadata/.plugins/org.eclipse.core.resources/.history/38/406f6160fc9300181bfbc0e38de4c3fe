@@ -1,0 +1,5 @@
+package com.aartek.repositoryImpl;
+
+public interface UserRepositoryInterface {
+
+}

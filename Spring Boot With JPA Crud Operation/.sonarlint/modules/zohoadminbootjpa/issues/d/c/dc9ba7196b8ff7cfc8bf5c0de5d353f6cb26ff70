@@ -1,0 +1,10 @@
+
+j
+squid:S106'"9Replace this use of System.out or System.err by a logger.(‡Ãî“üÿÿÿÿHóRMAJORZ
+CODE_SMELL
+wsquid:S11920"GDefine a constant instead of duplicating this literal "signUp" 3 times.(Ê¤Œ‡HòRCRITICALZ
+CODE_SMELL
+osquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»ÚýÿÿÿÿHôRMINORZ
+CODE_SMELL
+psquid:S1155&">Use isEmpty() to check whether the collection is empty or not.(É€°ÎøÿÿÿÿHõRMINORZ
+CODE_SMELL

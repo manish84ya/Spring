@@ -1,0 +1,20 @@
+package co.in.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import co.in.repository.ProductRepository;
+
+@Service
+public class ProductService 
+{
+	public void Product_Service_Demo()
+	{
+		@Autowired
+		private ProductRepository productrepository;
+		
+		System.out.println("Inside_Product_service_Demo");
+		
+	}
+
+}

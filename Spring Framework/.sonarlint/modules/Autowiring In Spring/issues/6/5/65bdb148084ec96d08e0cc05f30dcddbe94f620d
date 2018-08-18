@@ -1,0 +1,15 @@
+
+squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÎŒúøÿÿÿÿHÀ"RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŒ€ HÁ"RMINORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ëğşÿÿÿÿHÆ"RMINORZ
+CODE_SMELL
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŒ€ HÅ"RMINORZ
+CODE_SMELL
+ˆsquid:S00116"URename this field "StreetName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÉÿÈúÿÿÿÿHÃ"RMINORZ
+CODE_SMELL
+…squid:S00116"WRename this field "House_Number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¾™ìHÄ"RMINORZ
+CODE_SMELL
+squid:S00116"RRename this field "Pincode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ıœQHÂ"RMINORZ
+CODE_SMELL

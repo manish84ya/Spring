@@ -1,0 +1,952 @@
+2018-06-19 10:55:17,482 659169 [       Worker-1] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 10:55:17,667 659354 [       Worker-1] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 10:55:20,245 661932 [       Worker-7] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 10:55:20,252 661939 [       Worker-7] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:21:38,556 5840243 [       Worker-1] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:21:38,559 5840246 [       Worker-1] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:21:41,211 5842898 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:21:41,215 5842902 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:21:41,401 5843088 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:21:41,403 5843090 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:40,770 6022457 [      Worker-22] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:40,774 6022461 [      Worker-22] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:40,789 6022476 [      Worker-22] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:40,791 6022478 [      Worker-22] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:40,830 6022517 [      Worker-22] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:40,835 6022522 [      Worker-22] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:43,671 6025358 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:43,677 6025364 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:43,810 6025497 [      Worker-21] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:43,812 6025499 [      Worker-21] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:43,848 6025535 [      Worker-21] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:24:43,849 6025536 [      Worker-21] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:35:59,977 6701664 [      Worker-24] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:35:59,980 6701667 [      Worker-24] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:38:14,983 6836670 [      Worker-24] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:38:14,985 6836672 [      Worker-24] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:45:19,622 7261309 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:45:19,622 7261309 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:45:56,513 7298200 [      Worker-31] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:45:56,513 7298200 [      Worker-31] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:46:10,547 7312234 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:46:10,547 7312234 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:46:26,347 7328034 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:46:26,347 7328034 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:48:14,387 7436074 [      Worker-33] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:48:14,390 7436077 [      Worker-33] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:48:42,955 7464642 [      Worker-33] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:48:42,987 7464674 [      Worker-33] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:50:53,256 7594943 [      Worker-35] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:50:53,256 7594943 [      Worker-35] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:51:17,284 7618971 [      Worker-29] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:51:17,284 7618971 [      Worker-29] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:51:31,529 7633216 [      Worker-35] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:51:31,529 7633216 [      Worker-35] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:52:40,645 7702332 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:52:40,645 7702332 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:52:40,661 7702348 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:52:58,320 7720007 [      Worker-35] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:52:58,335 7720022 [      Worker-35] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:54:48,724 7830411 [      Worker-36] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:54:48,724 7830411 [      Worker-36] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:55:08,929 7850616 [      Worker-36] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:55:08,945 7850632 [      Worker-36] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:55:26,838 7868525 [      Worker-33] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:55:26,838 7868525 [      Worker-33] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:55:33,915 7875602 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:55:33,915 7875602 [      Worker-28] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:59:42,236 8123923 [      Worker-38] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:59:42,236 8123923 [      Worker-38] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:59:42,282 8123969 [      Worker-38] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:59:42,329 8124016 [      Worker-38] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:59:42,345 8124032 [      Worker-38] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 12:59:42,345 8124032 [      Worker-38] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:02:47,792 8309479 [      Worker-41] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:02:47,792 8309479 [      Worker-41] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:02:47,878 8309565 [      Worker-41] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:02:47,878 8309565 [      Worker-41] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:02:47,925 8309612 [      Worker-41] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:02:47,925 8309612 [      Worker-41] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:03:26,967 8348654 [      Worker-43] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:03:26,967 8348654 [      Worker-43] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:04:04,493 8386180 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:04:04,493 8386180 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:04:04,817 8386504 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:04:04,817 8386504 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:04:04,832 8386519 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:04:04,832 8386519 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:04:18,046 8399733 [      Worker-41] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:04:18,046 8399733 [      Worker-41] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:04:30,108 8411795 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:04:30,108 8411795 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:17:11,745 9173432 [      Worker-53] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:17:11,745 9173432 [      Worker-53] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:18:15,668 9237355 [      Worker-55] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:18:15,668 9237355 [      Worker-55] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:18:16,989 9238676 [      Worker-54] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:18:16,989 9238676 [      Worker-54] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:19:24,287 9305974 [      Worker-53] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:19:24,287 9305974 [      Worker-53] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:19:24,490 9306177 [      Worker-54] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:19:24,506 9306193 [      Worker-54] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:20:19,546 9361233 [      Worker-52] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:20:20,124 9361811 [      Worker-52] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:20:20,296 9361983 [      Worker-55] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:20:20,749 9362436 [      Worker-55] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:20:20,749 9362436 [      Worker-55] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:20:42,022 9383709 [      Worker-51] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:20:42,022 9383709 [      Worker-49] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:20:42,053 9383740 [      Worker-51] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:20:42,694 9384381 [      Worker-53] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:20:42,850 9384537 [      Worker-53] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:20:42,850 9384537 [      Worker-53] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:21:20,816 9422503 [      Worker-56] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:21:20,816 9422503 [      Worker-56] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:21:22,238 9423925 [      Worker-53] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:21:22,238 9423925 [      Worker-53] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:21:29,052 9430739 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:21:29,083 9430770 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:21:29,443 9431130 [      Worker-49] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:21:29,568 9431255 [      Worker-49] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:21:29,568 9431255 [      Worker-49] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:21:34,741 9436428 [      Worker-49] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 13:23:00,240 9521927 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:23:00,240 9521927 [      Worker-37] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:23:01,583 9523270 [      Worker-56] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:23:01,583 9523270 [      Worker-56] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:23:07,005 9528692 [      Worker-51] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.16 is missing, no dependency information available
+2018-06-19 13:23:07,349 9529036 [      Worker-51] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.16 is missing, no dependency information available
+2018-06-19 13:23:07,536 9529223 [      Worker-54] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.16 is missing, no dependency information available
+2018-06-19 13:23:07,708 9529395 [      Worker-54] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:23:07,708 9529395 [      Worker-54] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:25:36,240 9677927 [      Worker-58] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:25:36,240 9677927 [      Worker-58] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:26:32,570 9734257 [      Worker-54] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:26:32,586 9734273 [      Worker-54] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:26:58,099 9759786 [      Worker-63] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:26:58,130 9759817 [      Worker-59] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:27:09,688 9771375 [      Worker-63] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:27:09,692 9771379 [      Worker-63] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:27:46,053 9807740 [      Worker-63] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:27:46,053 9807740 [      Worker-59] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:27:46,538 9808225 [      Worker-58] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:28:53,893 9875580 [      Worker-59] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:28:58,143 9879830 [      Worker-58] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:28:58,143 9879830 [      Worker-58] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:29:48,456 9930143 [      Worker-59] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:29:48,487 9930174 [      Worker-56] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:29:49,003 9930690 [      Worker-62] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:30:04,924 9946611 [      Worker-62] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:30:04,930 9946617 [      Worker-62] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:30:05,870 9947557 [      Worker-59] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:30:40,508 9982195 [      Worker-49] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:30:40,508 9982195 [      Worker-59] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:30:40,883 9982570 [      Worker-63] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:38:53,561 10475248 [      Worker-49] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:39:34,789 10516476 [      Worker-63] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:39:34,804 10516491 [      Worker-63] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:41:11,070 10612757 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:41:11,070 10612757 [      Worker-64] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:41:11,523 10613210 [      Worker-63] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:44:01,176 10782863 [      Worker-64] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:44:06,591 10788278 [      Worker-63] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:44:06,594 10788281 [      Worker-63] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:46:02,713 10904400 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:46:03,292 10904979 [      Worker-65] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:46:04,135 10905822 [      Worker-70] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:47:22,502 10984189 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:47:40,361 11002048 [      Worker-70] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:47:40,365 11002052 [      Worker-70] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:48:54,020 11075707 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:48:54,036 11075723 [      Worker-64] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:48:54,536 11076223 [      Worker-70] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:49:07,040 11088727 [      Worker-57] WARN  impl.DefaultUpdateCheckManager  - Failed to write tracking file C:\Users\MANISH\.m2\repository\commons-pool\commons-pool\1.4\commons-pool-1.4.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\MANISH\.m2\repository\commons-pool\commons-pool\1.4\commons-pool-1.4.pom.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:96)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:617)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:553)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:645)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:535)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223)
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:267)
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:198)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:535)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:519)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:409)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:363)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:351)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:254)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:316)
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:172)
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:215)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:188)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:192)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+2018-06-19 13:49:07,353 11089040 [      Worker-64] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:49:07,446 11089133 [      Worker-70] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:49:07,509 11089196 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:52:49,861 11311548 [      Worker-70] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:52:49,865 11311552 [      Worker-70] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:53:10,940 11332627 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:53:10,971 11332658 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:56:01,952 11503639 [      Worker-76] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:56:01,968 11503655 [      Worker-75] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:56:02,499 11504186 [      Worker-74] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:56:04,063 11505750 [      Worker-76] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:56:04,406 11506093 [      Worker-76] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:56:04,422 11506109 [      Worker-76] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:56:04,641 11506328 [      Worker-75] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:56:05,008 11506695 [      Worker-74] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:56:05,242 11506929 [      Worker-74] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:56:05,242 11506929 [      Worker-74] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:57:07,672 11569359 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:57:07,672 11569359 [      Worker-76] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:57:07,703 11569390 [      Worker-76] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:57:07,703 11569390 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:57:07,734 11569421 [      Worker-76] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:57:07,765 11569452 [      Worker-76] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:57:08,359 11570046 [      Worker-77] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:57:08,375 11570062 [      Worker-77] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.0.1.RELEASE-A is missing, no dependency information available
+2018-06-19 13:57:08,609 11570296 [      Worker-77] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:57:08,609 11570296 [      Worker-77] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:58:15,728 11637415 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:58:15,759 11637446 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:58:16,147 11637834 [      Worker-82] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:58:18,941 11640628 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.1.4.RELEASE is missing, no dependency information available
+2018-06-19 13:58:19,253 11640940 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.1.4.RELEASE is missing, no dependency information available
+2018-06-19 13:58:19,550 11641237 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:58:19,566 11641253 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.1.4.RELEASE is missing, no dependency information available
+2018-06-19 13:58:19,847 11641534 [      Worker-82] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.1.4.RELEASE is missing, no dependency information available
+2018-06-19 13:58:20,019 11641706 [      Worker-82] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:58:20,019 11641706 [      Worker-82] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:59:50,789 11732476 [      Worker-57] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:59:50,789 11732476 [      Worker-86] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:59:50,851 11732538 [      Worker-86] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:59:51,226 11732913 [      Worker-88] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:59:51,383 11733070 [      Worker-88] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:59:51,383 11733070 [      Worker-88] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:59:52,789 11734476 [      Worker-87] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 13:59:52,820 11734507 [      Worker-87] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:59:52,820 11734507 [      Worker-87] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 13:59:59,917 11741604 [      Worker-87] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:00:00,355 11742042 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:01:53,132 11854819 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:01:53,135 11854822 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:01:54,744 11856431 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:01:54,802 11856489 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:01:54,806 11856493 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:02:13,421 11875108 [      Worker-87] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:03:47,342 11969029 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:03:47,436 11969123 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.1.4.RELEASE is missing, no dependency information available
+2018-06-19 14:03:47,451 11969138 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:03:47,482 11969169 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.1.4.RELEASE is missing, no dependency information available
+2018-06-19 14:03:47,920 11969607 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:03:47,951 11969638 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - The POM for org.springframework:org.springframework.asm:jar:3.1.4.RELEASE is missing, no dependency information available
+2018-06-19 14:03:48,107 11969794 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:03:48,107 11969794 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:03:56,363 11978050 [      Worker-91] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:03:56,363 11978050 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:03:56,426 11978113 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:03:56,957 11978644 [      Worker-90] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:03:57,176 11978863 [      Worker-90] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:03:57,176 11978863 [      Worker-90] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:04:22,814 12004501 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:04:22,846 12004533 [      Worker-91] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:04:23,236 12004923 [      Worker-94] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:06:24,139 12125826 [      Worker-78] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:06:25,637 12127324 [      Worker-94] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:06:25,637 12127324 [      Worker-94] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:06:44,218 12145905 [      Worker-94] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:06:44,234 12145921 [      Worker-90] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:06:44,765 12146452 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:06:54,643 12156330 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:06:54,643 12156330 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:06:59,357 12161044 [      Worker-91] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:06:59,388 12161075 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:06:59,826 12161513 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:07:37,143 12198830 [      Worker-90] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:08:25,548 12247235 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:08:37,437 12259124 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:08:37,437 12259124 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:08:43,164 12264851 [      Worker-90] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:08:43,164 12264851 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:08:43,711 12265398 [      Worker-98] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:08:49,162 12270849 [      Worker-98] WARN  impl.DefaultUpdateCheckManager  - Failed to write tracking file C:\Users\MANISH\.m2\repository\org\springframework\spring-beans\3.1.0.RELEASE\spring-beans-3.1.0.RELEASE.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\MANISH\.m2\repository\org\springframework\spring-beans\3.1.0.RELEASE\spring-beans-3.1.0.RELEASE.pom.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:96)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:617)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:553)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:645)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:535)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223)
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:267)
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:198)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:535)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:519)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:409)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:363)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:351)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:504)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:458)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:363)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:351)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:504)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:458)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:363)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:351)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:254)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:316)
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:172)
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:215)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:188)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.DefaultMavenDependencyResolver.resolveProjectDependencies(DefaultMavenDependencyResolver.java:63)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:530)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$3.call(ProjectRegistryManager.java:492)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$3.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:496)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+2018-06-19 14:09:30,899 12312586 [      Worker-93] WARN  impl.DefaultUpdateCheckManager  - Failed to write tracking file C:\Users\MANISH\.m2\repository\org\springframework\spring-dao\2.0.6\spring-dao-2.0.6.jar.lastUpdated
+java.io.FileNotFoundException: C:\Users\MANISH\.m2\repository\org\springframework\spring-dao\2.0.6\spring-dao-2.0.6.jar.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:96)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:617)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:553)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:645)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:535)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:367)
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:205)
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:215)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:188)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:192)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+2018-06-19 14:09:31,055 12312742 [      Worker-93] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:09:31,437 12313124 [      Worker-98] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:09:31,453 12313140 [      Worker-98] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:11:29,646 12431333 [      Worker-91] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:11:29,646 12431333 [      Worker-99] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:11:29,786 12431473 [      Worker-91] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:11:30,083 12431770 [     Worker-100] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:11:30,286 12431973 [     Worker-100] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:11:30,286 12431973 [     Worker-100] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:11:38,302 12439989 [     Worker-101] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:11:38,318 12440005 [     Worker-100] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:11:38,427 12440114 [     Worker-101] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:11:38,787 12440474 [      Worker-91] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:11:39,021 12440708 [      Worker-91] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:11:39,021 12440708 [      Worker-91] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:12:03,192 12464879 [     Worker-103] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:12:03,192 12464879 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:12:03,348 12465035 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:12:03,614 12465301 [     Worker-100] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:12:03,864 12465551 [     Worker-100] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:12:03,864 12465551 [     Worker-100] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:13:23,241 12544928 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:13:23,241 12544928 [      Worker-95] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:13:23,376 12545063 [      Worker-95] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 14:13:23,376 12545063 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 14:13:23,391 12545078 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:13:23,516 12545203 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 14:13:23,719 12545406 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:13:23,782 12545469 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for org.apache.log4j:com.springsource.org.apache.log4j:jar:1.2.15 is missing, no dependency information available
+2018-06-19 14:13:23,922 12545609 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:13:23,922 12545609 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:14:17,553 12599240 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:14:17,553 12599240 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:14:17,725 12599412 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:14:18,069 12599756 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:14:18,272 12599959 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:14:18,272 12599959 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:15:04,249 12645936 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:15:04,249 12645936 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:15:04,389 12646076 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:15:04,686 12646373 [     Worker-101] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:15:04,874 12646561 [     Worker-101] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:15:04,874 12646561 [     Worker-101] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:15:35,433 12677120 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:15:35,433 12677120 [      Worker-95] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:15:35,605 12677292 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:15:36,079 12677766 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:15:36,266 12677953 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:15:36,266 12677953 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:16:15,724 12717411 [     Worker-101] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:16:15,724 12717411 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:16:15,865 12717552 [     Worker-101] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:16:16,146 12717833 [      Worker-95] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:16:16,333 12718020 [      Worker-95] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:16:16,333 12718020 [      Worker-95] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:17:41,424 12803111 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:17:41,424 12803111 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:17:41,924 12803611 [     Worker-106] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:17:43,424 12805111 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:17:43,517 12805204 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:17:43,627 12805314 [     Worker-106] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:17:43,908 12805595 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:17:43,971 12805658 [      Worker-97] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:17:44,417 12806104 [     Worker-106] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:17:44,417 12806104 [     Worker-106] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:17:58,956 12820643 [     Worker-109] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:17:58,956 12820643 [     Worker-106] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:17:59,081 12820768 [     Worker-106] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:17:59,097 12820784 [     Worker-109] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:17:59,128 12820815 [     Worker-109] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:17:59,237 12820924 [     Worker-109] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:17:59,487 12821174 [     Worker-106] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:17:59,534 12821221 [     Worker-106] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:17:59,675 12821362 [     Worker-106] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:17:59,675 12821362 [     Worker-106] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:19:21,411 12903098 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:19:21,411 12903098 [     Worker-108] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:19:21,588 12903275 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:19:21,916 12903603 [     Worker-112] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:19:22,113 12903800 [     Worker-112] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:19:22,116 12903803 [     Worker-112] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:20:19,650 12961337 [     Worker-112] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:20:19,650 12961337 [     Worker-104] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:20:20,087 12961774 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:20:30,147 12971834 [     Worker-112] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:20:33,964 12975651 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:20:33,964 12975651 [     Worker-105] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:28:18,189 13439876 [     Worker-117] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:28:18,439 13440126 [     Worker-117] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:28:18,439 13440126 [     Worker-117] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:29:23,560 13505247 [     Worker-114] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:29:23,560 13505247 [     Worker-114] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:29:36,692 13518379 [     Worker-118] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:29:36,692 13518379 [     Worker-118] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:31:34,777 13636464 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:31:34,964 13636651 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:31:35,199 13636886 [     Worker-121] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:31:35,871 13637558 [     Worker-121] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:31:35,871 13637558 [     Worker-121] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:32:00,097 13661784 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:32:00,363 13662050 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:32:00,363 13662050 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:37:10,040 13971727 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:37:10,228 13971915 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:37:10,509 13972196 [     Worker-121] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:37:10,933 13972620 [     Worker-121] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:37:10,933 13972620 [     Worker-121] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:37:59,757 14021444 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:37:59,757 14021444 [     Worker-124] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:37:59,929 14021616 [     Worker-124] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:37:59,929 14021616 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:37:59,945 14021632 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:38:00,007 14021694 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:38:00,226 14021913 [     Worker-122] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:38:00,273 14021960 [     Worker-122] WARN  nternal.embedder.EclipseLogger  - The POM for com.thoughtworks.sun.jdmk:jmxtools:jar:1.2.1 is missing, no dependency information available
+2018-06-19 14:38:00,429 14022116 [     Worker-122] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:38:00,429 14022116 [     Worker-122] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:38:29,779 14051466 [     Worker-124] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:38:29,779 14051466 [     Worker-117] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:38:29,998 14051685 [     Worker-124] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:38:30,336 14052023 [     Worker-122] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:38:30,508 14052195 [     Worker-122] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:38:30,523 14052210 [     Worker-122] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:38:42,833 14064520 [     Worker-127] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:38:42,833 14064520 [     Worker-117] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:38:42,973 14064660 [     Worker-127] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:38:43,270 14064957 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:38:43,458 14065145 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:38:43,458 14065145 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:39:04,611 14086298 [     Worker-122] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:39:04,834 14086521 [     Worker-122] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:39:04,834 14086521 [     Worker-122] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:39:17,613 14099300 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:39:17,613 14099300 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:41:05,584 14207271 [     Worker-125] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:41:05,740 14207427 [     Worker-125] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:41:06,006 14207693 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:41:06,959 14208646 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:41:06,959 14208646 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:41:17,449 14219136 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:41:17,699 14219386 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:41:17,699 14219386 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:41:34,885 14236572 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:41:35,025 14236712 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:41:35,354 14237041 [     Worker-125] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:41:35,963 14237650 [     Worker-125] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:41:35,963 14237650 [     Worker-125] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:41:42,450 14244137 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:41:42,668 14244355 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:41:42,715 14244402 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:41:53,377 14255064 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:41:53,377 14255064 [     Worker-119] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:42:08,558 14270245 [     Worker-121] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:42:08,699 14270386 [     Worker-121] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:42:09,014 14270701 [     Worker-128] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:42:09,598 14271285 [     Worker-128] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:42:09,598 14271285 [     Worker-128] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:42:22,118 14283805 [     Worker-125] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 14:42:22,321 14284008 [     Worker-125] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:42:22,337 14284024 [     Worker-125] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:42:31,934 14293621 [     Worker-128] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 14:42:31,934 14293621 [     Worker-128] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:16:00,628 16302315 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:16:02,447 16304134 [     Worker-129] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:16:58,475 16360162 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:17:03,112 16364799 [     Worker-129] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:17:03,115 16364802 [     Worker-129] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:17:20,694 16382381 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:17:20,913 16382600 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:17:20,916 16382603 [     Worker-126] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:17:38,579 16400266 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:17:38,580 16400267 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:17:52,915 16414602 [     Worker-133] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:17:54,242 16415929 [     Worker-133] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:17:55,152 16416839 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:17:55,976 16417663 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:17:55,979 16417666 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:33:03,238 17324925 [     Worker-134] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:33:03,239 17324926 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:33:03,659 17325346 [     Worker-135] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:33:51,438 17373125 [     Worker-135] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:33:51,440 17373127 [     Worker-135] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:33:51,465 17373152 [     Worker-134] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:35:36,139 17477826 [     Worker-134] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:35:36,155 17477842 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:35:36,649 17478336 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:49:33,856 18315543 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:49:33,861 18315548 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:49:35,174 18316861 [     Worker-128] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:49:35,174 18316861 [     Worker-140] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:49:35,854 18317541 [     Worker-138] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:49:41,127 18322814 [     Worker-140] WARN  impl.DefaultUpdateCheckManager  - Failed to write tracking file C:\Users\MANISH\.m2\repository\net\sf\ehcache\ehcache-parent\2.2\ehcache-parent-2.2.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\MANISH\.m2\repository\net\sf\ehcache\ehcache-parent\2.2\ehcache-parent-2.2.pom.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:96)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:617)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:553)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:645)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:535)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223)
+	at org.apache.maven.repository.internal.DefaultModelResolver.resolveModel(DefaultModelResolver.java:173)
+	at org.apache.maven.repository.internal.DefaultModelResolver.resolveModel(DefaultModelResolver.java:226)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1000)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:800)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:329)
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:320)
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:198)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:535)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:519)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:409)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:363)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:351)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:504)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:458)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:363)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:351)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:254)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:316)
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:172)
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:215)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:188)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:794)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+2018-06-19 15:49:45,529 18327216 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:49:46,729 18328416 [     Worker-140] WARN  impl.DefaultUpdateCheckManager  - Failed to write tracking file C:\Users\MANISH\.m2\repository\org\jboss\spec\jboss-specs-parent\1.0.0.Beta2\jboss-specs-parent-1.0.0.Beta2.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\MANISH\.m2\repository\org\jboss\spec\jboss-specs-parent\1.0.0.Beta2\jboss-specs-parent-1.0.0.Beta2.pom.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:96)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:617)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:553)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:645)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:535)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223)
+	at org.apache.maven.repository.internal.DefaultModelResolver.resolveModel(DefaultModelResolver.java:173)
+	at org.apache.maven.repository.internal.DefaultModelResolver.resolveModel(DefaultModelResolver.java:226)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1000)
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:800)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:329)
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:320)
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:198)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:535)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:519)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:409)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:363)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:351)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:504)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:458)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:363)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:351)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:504)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:458)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:363)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:351)
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:254)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:316)
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:172)
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:215)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:188)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:794)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+2018-06-19 15:50:06,000 18347687 [     Worker-138] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:50:06,005 18347692 [     Worker-138] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:50:06,355 18348042 [     Worker-128] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:51:29,215 18430902 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:51:29,215 18430902 [     Worker-141] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:51:29,723 18431410 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:51:34,362 18436049 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:51:35,753 18437440 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:51:35,758 18437445 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:52:19,491 18481178 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:52:19,496 18481183 [     Worker-141] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:52:21,220 18482907 [     Worker-141] WARN  nternal.embedder.EclipseLogger  - The POM for ojdbc14:ojdbc14:jar:10.2.0.3.0 is missing, no dependency information available
+2018-06-19 15:52:21,250 18482937 [     Worker-130] WARN  nternal.embedder.EclipseLogger  - The POM for ojdbc14:ojdbc14:jar:10.2.0.3.0 is missing, no dependency information available
+2018-06-19 15:52:21,465 18483152 [     Worker-141] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:52:21,565 18483252 [     Worker-141] WARN  nternal.embedder.EclipseLogger  - The POM for ojdbc14:ojdbc14:jar:10.2.0.3.0 is missing, no dependency information available
+2018-06-19 15:52:21,770 18483457 [     Worker-143] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:52:21,850 18483537 [     Worker-143] WARN  nternal.embedder.EclipseLogger  - The POM for ojdbc14:ojdbc14:jar:10.2.0.3.0 is missing, no dependency information available
+2018-06-19 15:52:22,085 18483772 [     Worker-143] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:52:22,085 18483772 [     Worker-143] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:52:34,126 18495813 [     Worker-143] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:52:34,126 18495813 [     Worker-139] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:52:34,391 18496078 [     Worker-139] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:52:34,722 18496409 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 15:52:34,977 18496664 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 15:52:34,982 18496669 [     Worker-131] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 16:53:11,251 22132938 [     Worker-142] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-19 16:53:13,586 22135273 [     Worker-142] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 16:53:13,589 22135276 [     Worker-142] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 16:53:41,901 22163588 [     Worker-147] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 16:53:41,902 22163589 [     Worker-147] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 16:54:19,820 22201507 [     Worker-151] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 16:54:19,822 22201509 [     Worker-151] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 16:54:29,614 22211301 [     Worker-150] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 16:54:29,615 22211302 [     Worker-150] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-20 14:57:27,657 29170  [       Worker-1] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-20 14:57:28,232 29745  [       Worker-1] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-20 22:38:35,326 14604  [       Worker-4] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-20 22:38:35,905 15183  [       Worker-4] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-20 22:41:08,313 6163   [      Worker-12] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-20 22:41:08,404 6254   [      Worker-12] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-20 22:52:46,160 6302   [      Worker-13] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-20 22:52:46,278 6420   [      Worker-13] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:30:15,336 0      [       Worker-8] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-21 10:30:18,517 3181   [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:30:18,538 3202   [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:30:21,576 6240   [       Worker-9] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:30:21,584 6248   [       Worker-9] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:30:22,136 6800   [       Worker-9] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:30:22,138 6802   [       Worker-9] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:41:05,820 650484 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:41:05,836 650500 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:41:09,054 653718 [       Worker-7] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:41:09,054 653718 [       Worker-7] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:41:34,553 679217 [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:41:34,553 679217 [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:42:20,661 725325 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:42:20,661 725325 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:51,360 996024 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:51,376 996040 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:51,392 996056 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:51,407 996071 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:51,423 996087 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:51,438 996102 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:53,610 998274 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:53,610 998274 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:53,657 998321 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:53,657 998321 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:53,688 998352 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:53,704 998368 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:46:53,766 998430 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:48:26,431 1091095 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:48:26,431 1091095 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:51:23,845 1268509 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:51:23,845 1268509 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:51:23,845 1268509 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:51:24,173 1268837 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:51:24,173 1268837 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:52:29,872 1334536 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:52:29,872 1334536 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:52:29,887 1334551 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:52:43,142 1347806 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:52:43,142 1347806 [      Worker-17] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:54:10,446 1435110 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:54:10,446 1435110 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:55:20,177 1504841 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-21 10:55:21,584 1506248 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-21 10:55:23,341 1508005 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:55:23,347 1508011 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:55:23,351 1508015 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:55:24,453 1509117 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:55:24,453 1509117 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:55:24,562 1509226 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-21 10:55:24,875 1509539 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:55:24,875 1509539 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:56:13,326 1557990 [      Worker-20] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-21 10:56:14,045 1558709 [      Worker-20] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-21 10:56:14,983 1559647 [      Worker-20] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:56:14,983 1559647 [      Worker-20] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:56:14,983 1559647 [      Worker-20] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:56:15,279 1559943 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:56:15,279 1559943 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:56:15,358 1560022 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-21 10:56:15,561 1560225 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:56:15,561 1560225 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:56:20,529 1565193 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-21 10:56:20,951 1565615 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-21 10:56:21,779 1566443 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:56:21,779 1566443 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:56:21,779 1566443 [      Worker-18] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:57:50,866 1655530 [      Worker-21] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-21 10:57:51,101 1655765 [      Worker-21] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:57:51,101 1655765 [      Worker-21] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:57:51,101 1655765 [      Worker-21] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:58:08,108 1672772 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-21 10:58:08,108 1672772 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:11:28,747 3203   [       Worker-1] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-22 10:11:58,322 32778  [       Worker-9] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:11:58,336 32792  [       Worker-9] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:12:01,870 36326  [      Worker-10] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-22 10:12:04,127 38583  [      Worker-10] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:12:04,149 38605  [      Worker-10] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:14:44,354 198810 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:14:44,399 198855 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:14:44,447 198903 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:15:09,215 223671 [       Worker-6] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:15:09,218 223674 [       Worker-6] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:19:43,230 497686 [       Worker-6] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:19:43,234 497690 [       Worker-6] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:19:43,243 497699 [       Worker-6] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:19:47,337 501793 [      Worker-14] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:19:47,340 501796 [      Worker-14] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:20:21,443 535899 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:20:21,447 535903 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:20:21,452 535908 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:20:22,585 537041 [      Worker-12] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:20:22,587 537043 [      Worker-12] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:21:34,881 609337 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-22 10:21:37,720 612176 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-22 10:21:39,475 613931 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:21:39,477 613933 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:21:39,949 614405 [      Worker-13] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-22 10:21:40,246 614702 [      Worker-13] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:21:40,248 614704 [      Worker-13] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:23:09,091 703547 [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:23:09,100 703556 [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:23:09,112 703568 [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:24:02,996 757452 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:24:03,001 757457 [      Worker-15] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:25:26,711 841167 [      Worker-13] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-22 10:25:28,523 842979 [      Worker-13] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-22 10:25:29,874 844330 [      Worker-13] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:25:29,875 844331 [      Worker-13] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:25:29,879 844335 [      Worker-13] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:25:36,506 850962 [      Worker-12] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-22 10:25:36,725 851181 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-22 10:25:37,240 851696 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-22 10:25:37,934 852390 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:25:37,936 852392 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-22 10:25:37,941 852397 [      Worker-16] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-23 09:53:13,629 1515   [       Worker-3] WARN  nternal.embedder.EclipseLogger  - The POM for commons-dbcp:commons-dbcp:jar:1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-29 12:36:37,885 116466 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:36:38,106 116687 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:36:49,629 128210 [       Worker-3] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:36:49,659 128240 [       Worker-3] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:36:57,200 135781 [       Worker-3] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:36:57,265 135846 [       Worker-3] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:37:05,948 144529 [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:37:05,969 144550 [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:37:13,096 151677 [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:37:13,098 151679 [       Worker-8] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:37:13,668 152249 [       Worker-4] WARN  nternal.embedder.EclipseLogger  - The POM for com.Aartek:ZohoRepository:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-06-29 12:37:13,900 152481 [       Worker-4] WARN  nternal.embedder.EclipseLogger  - The POM for com.Aartek:ZohoServices:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-06-29 12:37:14,507 153088 [       Worker-4] WARN  nternal.embedder.EclipseLogger  - The POM for com.Aartek:ZohoServices:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-06-29 12:37:15,504 154085 [       Worker-4] ERROR venLaunchConfigurationListener  - Launch configuration HelloWorld references non-existing project ZohoRepository.
+org.eclipse.core.runtime.CoreException: Launch configuration HelloWorld references non-existing project ZohoRepository.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1705)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1580)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+2018-06-29 12:37:15,506 154087 [       Worker-4] ERROR venLaunchConfigurationListener  - Launch configuration HelloWorld references non-existing project ZohoRepository.
+org.eclipse.core.runtime.CoreException: Launch configuration HelloWorld references non-existing project ZohoRepository.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1705)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1580)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+2018-06-29 12:37:15,517 154098 [       Worker-4] ERROR venLaunchConfigurationListener  - Launch configuration HelloWorld references non-existing project ZohoRepository.
+org.eclipse.core.runtime.CoreException: Launch configuration HelloWorld references non-existing project ZohoRepository.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1705)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1580)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2166)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+2018-06-29 12:37:15,713 154294 [      Worker-11] WARN  nternal.embedder.EclipseLogger  - The POM for com.Aartek:ZohoServices:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-06-29 12:37:15,721 154302 [      Worker-11] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:37:15,723 154304 [      Worker-11] WARN  nternal.embedder.EclipseLogger  - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-29 12:37:16,705 155286 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - The POM for com.Aartek:ZohoServices:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2018-06-29 12:37:16,756 155337 [       Worker-0] WARN  nternal.embedder.EclipseLogger  - The POM for com.Aartek:ZohoServices:jar:0.0.1-SNAPSHOT is missing, no dependency information available

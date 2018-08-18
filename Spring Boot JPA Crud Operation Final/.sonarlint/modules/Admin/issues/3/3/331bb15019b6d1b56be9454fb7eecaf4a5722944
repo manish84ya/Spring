@@ -1,0 +1,10 @@
+
+vsquid:S11921"GDefine a constant instead of duplicating this literal "signUp" 3 times.(Ê¤Œ‡HORCRITICALZ
+CODE_SMELL
+|squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎŽ„ïüÿÿÿÿHPRMAJORZ
+CODE_SMELL
+|squid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(…£×‚ýÿÿÿÿHQRMAJORZ
+CODE_SMELL
+d
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ºÁ¹‘HRRMAJORZ
+CODE_SMELL

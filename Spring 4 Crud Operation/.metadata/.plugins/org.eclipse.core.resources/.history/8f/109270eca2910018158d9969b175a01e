@@ -1,0 +1,78 @@
+package com.aartek.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.ui.ModelMap;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.aartek.model.Employee;
+import com.aartek.service.RegistrationService;
+
+@Controller
+public class RegistrationController {
+	@Autowired
+	private RegistrationService registrationservice;
+@RequestMapping(value= "/registration",method=RequestMethod.GET)
+	public String registrationEmployee(Model model)
+	{
+		model.addAttribute("employee",new Employee());
+		System.out.println("Inside Controller");
+		return "registration";
+	}
+
+@RequestMapping(value= "/registration",method=RequestMethod.POST)
+public String registrationEmployee(@ModelAttribute("employee") Employee emp)
+{
+	System.out.println("Inside----- Controller");
+	System.out.println(emp.getFirstName());
+	System.out.println(emp.getLastName());
+	System.out.println(emp.getEmail());
+	System.out.println(emp.getMobile()); 
+	System.out.println(emp.getDept());
+	System.out.println(emp.getAddress());
+	registrationservice.saveRecord(emp);
+	return "registration";
+}
+
+
+@RequestMapping(value= "/list", method = { RequestMethod.GET, RequestMethod.POST })
+public String getEmployeeRecord(Map<String,Object> model)
+{
+	System.out.println("Inside Controller");
+	List<Employee> employees=registrationservice.getRecord();
+	model.put("employees",employees);
+	 model.put("employees1","Hello Manish");
+	 return "allemployee";
+}
+
+@RequestMapping(value="/edit/{id}")  
+public ModelAndView edit(@PathVariable int id,Model model)
+{  
+	Employee emp = registrationservice.findEmployeeById(id);
+	model.addAttribute("employee",emp);
+	model.addAttribute("edit",true);
+	return new ModelAndView("registration","command",emp);
+}
+
+@RequestMapping(value="/editSave",method = RequestMethod.POST)  
+public ModelAndView editsave(@ModelAttribute("emp") Employee emp){  
+    System.out.println("inside edit save post method"); 
+	registrationservice.updateRecord(emp);
+    return new ModelAndView("registration");  
+}  
+
+
+
+}
+

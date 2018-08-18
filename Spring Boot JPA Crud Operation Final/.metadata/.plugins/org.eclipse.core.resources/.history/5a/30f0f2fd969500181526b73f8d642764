@@ -1,0 +1,15 @@
+package com.spring.jpa.service;
+
+import java.util.List;
+
+import com.spring.jpa.model.User;
+
+public interface UserServiceInterface 
+{
+	public String addUser(User user);
+	public List<User> checkLogin(User user);
+	public List<User> findAll();
+	public void deleteById(Integer id);
+	
+
+}

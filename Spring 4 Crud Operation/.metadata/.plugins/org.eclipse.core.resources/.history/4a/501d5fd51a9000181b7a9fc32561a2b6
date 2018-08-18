@@ -1,0 +1,18 @@
+package com.aartek.service;
+
+import org.springframework.stereotype.Service;
+
+import com.aartek.model.Employee;
+
+@Service
+public class RegistrationService 
+{
+	public Employee RegistrationServiceMethod(Employee emp)
+	{
+		System.out.println("Inside RegistrationService ");
+		
+		return emp;
+		
+	}
+
+}

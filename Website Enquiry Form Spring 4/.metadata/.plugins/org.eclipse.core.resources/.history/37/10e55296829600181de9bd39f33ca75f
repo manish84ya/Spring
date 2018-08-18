@@ -1,0 +1,49 @@
+package com.website.enquiry.model;
+
+public class EnquiryDTO 
+{
+	private Integer enquiryId;
+	private String enquiryPersonName;
+	private Long contactNumber;
+	private String emailId;
+	private String profession;
+	private Boolean promotionalMsg;
+	public Integer getEnquiryId() {
+		return enquiryId;
+	}
+	public void setEnquiryId(Integer enquiryId) {
+		this.enquiryId = enquiryId;
+	}
+	public String getEnquiryPersonName() {
+		return enquiryPersonName;
+	}
+	public void setEnquiryPersonName(String enquiryPersonName) {
+		this.enquiryPersonName = enquiryPersonName;
+	}
+	public Long getContactNumber() {
+		return contactNumber;
+	}
+	public void setContactNumber(Long contactNumber) {
+		this.contactNumber = contactNumber;
+	}
+	public String getEmailId() {
+		return emailId;
+	}
+	public void setEmailId(String emailId) {
+		this.emailId = emailId;
+	}
+	public String getProfession() {
+		return profession;
+	}
+	public void setProfession(String profession) {
+		this.profession = profession;
+	}
+	public Boolean getPromotionalMsg() {
+		return promotionalMsg;
+	}
+	public void setPromotionalMsg(Boolean promotionalMsg) {
+		this.promotionalMsg = promotionalMsg;
+	}
+	
+
+}

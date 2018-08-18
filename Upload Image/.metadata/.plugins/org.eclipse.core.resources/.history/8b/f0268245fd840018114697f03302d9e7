@@ -1,0 +1,15 @@
+package co.in.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class ProductService 
+{
+	public void Product_Service_Demo()
+	{
+		
+		System.out.println("Inside_Product_service_Demo");
+		
+	}
+
+}

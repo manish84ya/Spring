@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Jul 05 17:41:38 IST 2018
+org.eclipse.jst.j2ee.server\:Aartek_Repository=WEB-INF/lib/Aartek_Repository-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:Aartek_Services=WEB-INF/lib/Aartek_Services-0.0.1-SNAPSHOT.jar

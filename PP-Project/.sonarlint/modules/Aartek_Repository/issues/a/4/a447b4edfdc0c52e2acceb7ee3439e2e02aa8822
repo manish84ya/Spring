@@ -1,0 +1,26 @@
+
+‚squid:S00116("TRename this field "ImageSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÔ·ÛHì RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê”äHè RMINORZ
+CODE_SMELL
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê”äHí RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÆ€Hç RMINORZ
+CODE_SMELL
+asquid:S1656"/Remove or correct this useless self-assignment.(ºÄÒñüÿÿÿÿ8ÁşÌæÍ,Hö RMAJORZBUG
+asquid:S1656%"/Remove or correct this useless self-assignment.(÷Úç¨úÿÿÿÿ8ÁşÌæÍ,H÷ RMAJORZBUG
+asquid:S1656."/Remove or correct this useless self-assignment.(¥Ø÷®øÿÿÿÿ8ÁşÌæÍ,Hø RMAJORZBUG
+squid:S4165%"eRemove this useless assignment; "imageID" already holds the assigned value along all execution paths.(÷Úç¨úÿÿÿÿ8ÁşÌæÍ,Hù RMAJORZ
+CODE_SMELL
+ squid:S4165."gRemove this useless assignment; "imageName" already holds the assigned value along all execution paths.(¥Ø÷®øÿÿÿÿ8ÁşÌæÍ,Hú RMAJORZ
+CODE_SMELL
+Ÿsquid:S4165"fRemove this useless assignment; "img_Path" already holds the assigned value along all execution paths.(ºÄÒñüÿÿÿÿ8ÁşÌæÍ,Hû RMAJORZ
+CODE_SMELL
+usquid:S1854"<Remove this useless assignment to local variable "img_Path".(ºÄÒñüÿÿÿÿ8ÁşÌæÍ,Hü RMAJORZ
+CODE_SMELL
+tsquid:S1854%";Remove this useless assignment to local variable "imageID".(÷Úç¨úÿÿÿÿ8ÁşÌæÍ,Hı RMAJORZ
+CODE_SMELL
+vsquid:S1854."=Remove this useless assignment to local variable "imageName".(¥Ø÷®øÿÿÿÿ8ÁşÌæÍ,Hş RMAJORZ
+CODE_SMELL
+ˆsquid:S00116"SRename this field "img_Path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÙ··8ÁşÌæÍ,Hÿ RMINORZ
+CODE_SMELL

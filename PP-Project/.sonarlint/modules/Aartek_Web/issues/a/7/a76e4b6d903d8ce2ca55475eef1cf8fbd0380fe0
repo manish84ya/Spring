@@ -1,0 +1,25 @@
+
+xsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(¯™H¦"RMAJORZ
+CODE_SMELL
+‰squid:UselessImportCheck"ORemove this unused import 'org.springframework.web.servlet.HandlerInterceptor'.(ÙÀúŠH§"RMINORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÈÑ¾þÿÿÿÿH¨"RMINORZ
+CODE_SMELL
+gsquid:S1161":Add the "@Override" annotation above this method signature(¨‡ÄµH©"RMAJORZ
+CODE_SMELL
+gsquid:S1161":Add the "@Override" annotation above this method signature(ó­ñ‚Hª"RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷ŒÍßH«"RMAJORZ
+CODE_SMELL
+squid:S2159#"VRemove this call to "equals"; comparisons between unrelated types always return false.(§öÞÛÿÿÿÿÿH¬"RMAJORZBUG
+j
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÀµÑäøÿÿÿÿH­"RMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä¹æH®"RMAJORZ
+CODE_SMELL
+gsquid:S1161":Add the "@Override" annotation above this method signature(ÍçŠÉH¯"RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ì»À¹H°"RMAJORZ
+CODE_SMELL

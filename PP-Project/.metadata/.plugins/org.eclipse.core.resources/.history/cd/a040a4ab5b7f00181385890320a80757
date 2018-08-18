@@ -1,0 +1,17 @@
+package com.aartek.repository;
+
+import org.springframework.stereotype.Repository;
+
+import com.aartek.model.Product;
+@Repository
+public class ProductRepository 
+{
+	public void CheckServiceLogin(Product product)
+	{
+		System.out.println("Inside repo");
+		System.out.println(product.getProduct_Name()+" "+product.getProduct_Desc()+" "+product.getProduct_Price());
+		//loginrepo.findPassword(user.getEmail(),user.getPassword());
+	}
+
+
+}

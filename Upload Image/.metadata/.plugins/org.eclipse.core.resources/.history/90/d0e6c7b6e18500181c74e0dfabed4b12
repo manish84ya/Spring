@@ -1,0 +1,58 @@
+package co.in.controller;
+
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.Map;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.multipart.MultipartFile;
+
+import co.in.model.UploadItem;
+import co.in.service.ProductService;
+
+@Controller
+
+public class ProductController 
+{
+	@Autowired
+	private ProductService productservice;
+	
+
+	@RequestMapping("/product")
+	public String saveProduct(Map<String,Object> map)
+	{
+		System.out.println("Inside Controller");
+		
+		System.out.println("Inside Get");
+		map.put("userMap",new UploadItem());
+			return "product";
+	}
+	
+	@RequestMapping(value="/product",method = RequestMethod.POST)
+	public String SingInAction(@ModelAttribute("userMap") UploadItem product,HttpServletRequest req,HttpServletResponse res,HttpSession session)
+	{	
+		System.out.println("Inside Post");
+		MultipartFile files = product.getFileData();
+		InputStream inputStream = null;
+		OutputStream outputStream = null;
+				
+		productservice.Product_Service_Demo();
+		return "product";
+	
+	}
+	
+	
+	
+}
+		
+		
+		
+

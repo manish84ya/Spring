@@ -1,0 +1,5 @@
+package com.website.enquiry.config;
+
+public class AppInitializer {
+
+}

@@ -1,0 +1,22 @@
+package com.website.enquiry.service;
+
+import org.apache.log4j.Logger;
+import org.springframework.stereotype.Service;
+
+import com.website.enquiry.model.EnquiryDTO;
+
+@Service
+public class EnquiryService 
+{
+	final static Logger logger = Logger.getLogger(EnquiryService.class);
+	
+	public EnquiryDTO getEnquiryService(EnquiryDTO enquiry)
+	{
+		logger.info("Inside Service method");
+		logger.info(enquiry.getEnquiryPersonName()+" "+enquiry.getEmailId()+" "+enquiry.getContactNumber()+" "+enquiry.getProfession()+" "+enquiry.getPromotionalMsg()+" "+enquiry.getComment());
+		
+		return enquiry;
+	}
+	
+
+}

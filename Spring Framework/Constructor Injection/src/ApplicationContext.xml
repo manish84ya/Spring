@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans  
+     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+
+
+
+<!-- No Argument Constructor -->     
+<bean id="textEditor" class="com.NoArgumentConstructor.TextEditor">
+<constructor-arg ref="spellChecker1"></constructor-arg>
+</bean>
+<bean id="spellChecker1" class="com.NoArgumentConstructor.SpellChecker"></bean>
+
+
+
+
+
+<!-- Argument Constructor -->
+<bean id="std" class="com.ArgumentConstructor.StudentInfo">
+<constructor-arg ref="student"></constructor-arg>
+</bean>
+
+
+<bean id="std1" class="com.ArgumentConstructor.StudentInfo">
+<constructor-arg ref="student1"></constructor-arg>
+</bean>
+
+<bean id="std2" class="com.ArgumentConstructor.StudentInfo">
+<constructor-arg ref="student2"></constructor-arg>
+</bean>
+
+<bean id="std3" class="com.ArgumentConstructor.StudentInfo">
+<constructor-arg ref="student3"></constructor-arg>
+</bean>
+
+
+
+<bean id="student" class="com.ArgumentConstructor.Student">
+<constructor-arg value="10"  type="int"></constructor-arg>
+  <constructor-arg value="manish" type="String"></constructor-arg>
+   <constructor-arg value="15" type="long"></constructor-arg>
+   <constructor-arg value="vit" type="String"></constructor-arg>
+</bean>
+
+<bean id="student1" class="com.ArgumentConstructor.Student">
+<constructor-arg value="10"  ></constructor-arg>
+  <constructor-arg value="manish" ></constructor-arg>
+   <constructor-arg value="15" ></constructor-arg> 
+    <constructor-arg value="mit" ></constructor-arg>
+</bean>
+
+<bean id="student2" class="com.ArgumentConstructor.Student">
+<constructor-arg value="10" index="2"  ></constructor-arg>
+  <constructor-arg value="manish" index="1" ></constructor-arg>
+   <constructor-arg value="15" index="0" ></constructor-arg> 
+  <constructor-arg value="cit" index="3" ></constructor-arg>
+</bean>
+
+<bean id="student3" class="com.ArgumentConstructor.Student">
+<constructor-arg value="10" index="0"  ></constructor-arg>
+   <constructor-arg value="Bca" index="1" ></constructor-arg> 
+ <constructor-arg value="95" index="2" ></constructor-arg>
+  
+</bean>
+
+
+
+</beans>

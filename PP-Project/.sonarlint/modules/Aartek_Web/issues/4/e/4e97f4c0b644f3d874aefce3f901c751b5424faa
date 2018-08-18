@@ -1,0 +1,11 @@
+
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿHõRMAJORZ
+CODE_SMELL
+•squid:S1157:"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ÊðíúÿÿÿÿHòRMINORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ÙðËøÿÿÿÿHöRMINORZ
+CODE_SMELL
+‘squid:UselessImportCheck"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™ÐÿûÿÿÿÿHñRMINORZ
+CODE_SMELL
+lsquid:UselessImportCheck"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿHóRMINORZ
+CODE_SMELL

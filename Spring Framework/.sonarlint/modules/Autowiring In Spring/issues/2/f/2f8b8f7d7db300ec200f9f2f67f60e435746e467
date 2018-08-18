@@ -1,0 +1,51 @@
+
+„squid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¤úşûÿÿÿÿHØ"RMINORZ
+CODE_SMELL
+squid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÂôÎùÿÿÿÿHÔ"RMINORZ
+CODE_SMELL
+j
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ƒºÕøÿÿÿÿHÑ"RMAJORZ
+CODE_SMELL
+j
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¤‡ßúÿÿÿÿHĞ"RMAJORZ
+CODE_SMELL
+j
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ïÙşÿÿÿÿHÎ"RMAJORZ
+CODE_SMELL
+d
+squid:S106A"9Replace this use of System.out or System.err by a logger.(¢’ß/HÍ"RMAJORZ
+CODE_SMELL
+j
+squid:S106C"9Replace this use of System.out or System.err by a logger.(‡çã¥úÿÿÿÿHÏ"RMAJORZ
+CODE_SMELL
+e
+squid:S106F"9Replace this use of System.out or System.err by a logger.(¹¢¾–HÒ"RMAJORZ
+CODE_SMELL
+squid:S001000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¤úşûÿÿÿÿHÕ"RMINORZ
+CODE_SMELL
+squid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥äüùÿÿÿÿHÖ"RMINORZ
+CODE_SMELL
+e
+squid:S106<"9Replace this use of System.out or System.err by a logger.(á¢–ÈHÈ"RMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ëğşÿÿÿÿHÙ"RMINORZ
+CODE_SMELL
+j
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¶Õû‚ûÿÿÿÿHË"RMAJORZ
+CODE_SMELL
+Šsquid:S00116	"WRename this field "student_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áìß¡ıÿÿÿÿH×"RMINORZ
+CODE_SMELL
+d
+squid:S106="9Replace this use of System.out or System.err by a logger.(ÓÈèHÉ"RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿHÇ"RMAJORZ
+CODE_SMELL
+j
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ÏìœÃùÿÿÿÿHÊ"RMAJORZ
+CODE_SMELL
+e
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Æ¡ãHÌ"RMAJORZ
+CODE_SMELL
+e
+squid:S106G"9Replace this use of System.out or System.err by a logger.(«º”ÇHÓ"RMAJORZ
+CODE_SMELL

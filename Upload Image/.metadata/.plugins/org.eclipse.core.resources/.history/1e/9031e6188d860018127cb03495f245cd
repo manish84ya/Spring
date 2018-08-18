@@ -1,0 +1,24 @@
+package co.in.repository;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate3.HibernateTemplate;
+import org.springframework.stereotype.Repository;
+
+@Repository
+
+
+public class ProductRepository 
+{
+	@Autowired
+	HibernateTemplate ht;
+	
+	public void Product_Repository_Demo(String image)
+	{
+		System.out.println("Product_Repository_Demo");
+		System.out.println(image);
+		ht.save(image);
+		System.out.println("Save In DB");
+		
+	}
+
+}

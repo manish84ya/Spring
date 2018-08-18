@@ -1,0 +1,34 @@
+
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(À•íŠûÿÿÿÿHRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÊ´şÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+j
+squid:S106%"9Replace this use of System.out or System.err by a logger.(°‹ŒÈøÿÿÿÿHƒRMAJORZ
+CODE_SMELL
+j
+squid:S106&"9Replace this use of System.out or System.err by a logger.(˜…ëüÿÿÿÿH„RMAJORZ
+CODE_SMELL
+j
+squid:S106,"9Replace this use of System.out or System.err by a logger.(áÖœ…ÿÿÿÿÿH…RMAJORZ
+CODE_SMELL
+j
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ÏÃˆ£ùÿÿÿÿH†RMAJORZ
+CODE_SMELL
+j
+squid:S106."9Replace this use of System.out or System.err by a logger.(˜…ëüÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+ssquid:S11262"AReplace this if-then-else statement by a single return statement.(ÊáÄ®øÿÿÿÿHˆRMINORZ
+CODE_SMELL
+[squid:S11252")Remove the literal "false" boolean value.(ÊáÄ®øÿÿÿÿH‰RMINORZ
+CODE_SMELL
+zsquid:UselessImportCheck";Remove this unused import 'com.aartek.service.UserService'.(Ã¶¯ëşÿÿÿÿHŠRMINORZ
+CODE_SMELL
+gsquid:S1161":Add the "@Override" annotation above this method signature(ÍçŠÉH‹RMAJORZ
+CODE_SMELL
+gsquid:S1161":Add the "@Override" annotation above this method signature(¨‡ÄµHŒRMAJORZ
+CODE_SMELL
+lsquid:S1161"":Add the "@Override" annotation above this method signature(Ç™ÛøÿÿÿÿHRMAJORZ
+CODE_SMELL

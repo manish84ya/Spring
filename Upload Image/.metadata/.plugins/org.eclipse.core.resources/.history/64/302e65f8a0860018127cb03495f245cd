@@ -1,0 +1,13 @@
+<%-- <%
+response.sendRedirect("product.do");
+%> --%>
+
+ 
+<html>
+<body>
+<h2>Hello World!</h2>
+
+ <a href="product.do">Product</a>
+</body>
+</html>
+ 
